@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleMetadataMgr>
+  <AnimRateSets />
+  <ClipSetMaps />
+  <VehicleCoverBoundOffsetInfos>
+    <Item type="CVehicleCoverBoundOffsetInfo">
+      <Name>VINDI_COVER_OFFSET_INFO</Name>
+      <ExtraSideOffset value="-0.075000" />
+      <ExtraForwardOffset value="-0.025000" />
+      <ExtraBackwardOffset value="-0.350000" />
+      <ExtraZOffset value="-0.200000" />
+      <CoverBoundInfos>
+        <Item>
+          <Name>Front</Name>
+          <Position x="0.000000" y="0.525000" z="0.225000" />
+          <Length value="1.300000" />
+          <Width value="0.950000" />
+          <Height value="1.100000" />
+          <ActiveBoundExclusions />
+        </Item>
+        <Item>
+          <Name>REAR</Name>
+          <Position x="0.000000" y="-0.675000" z="0.200000" />
+          <Length value="1.100000" />
+          <Width value="0.750000" />
+          <Height value="1.000000" />
+          <ActiveBoundExclusions />
+        </Item>
+      </CoverBoundInfos>
+    </Item>
+  </VehicleCoverBoundOffsetInfos>
+  <BicycleInfos />
+  <POVTuningInfos />
+  <EntryAnimVariations />
+  <VehicleExtraPointsInfos />
+  <DrivebyWeaponGroups />
+  <VehicleDriveByAnimInfos />
+  <VehicleDriveByInfos />
+  <VehicleSeatInfos />
+  <VehicleSeatAnimInfos />
+  <VehicleEntryPointInfos />
+  <VehicleEntryPointAnimInfos />
+  <VehicleExplosionInfos />
+  <VehicleLayoutInfos />
+  <VehicleScenarioLayoutInfos />
+  <SeatOverrideAnimInfos />
+  <InVehicleOverrideInfos />
+  <FirstPersonDriveByLookAroundData />
+</CVehicleMetadataMgr>

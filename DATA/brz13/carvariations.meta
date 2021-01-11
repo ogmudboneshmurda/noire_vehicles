@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+			<Item>
+      <modelName>brz13</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Crystal Black -->
+            147
+            28
+            6
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- World Rally Blue -->
+            62
+            64
+            69
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- White Pearl -->
+            111
+            111
+            112
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dark Gray Metallic -->
+            2
+            28
+            7
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Lightning Red -->
+            29
+            28
+            29
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Galaxy Blue -->
+            61
+            64
+            61
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Black Silica -->
+            0
+            28
+            147
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Sterling Silver -->
+            4  
+            28
+            5
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>957_brz13_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item> 
+  </variationData>
+</CVehicleModelInfoVariation>
