@@ -4,18 +4,18 @@
 		<Item type="CHandlingData">
 			<handlingName>m2f22</handlingName>
 			<fMass value="1250.000000"/>
-			<fInitialDragCoeff value="10.500000"/>
+			<fInitialDragCoeff value="1.500000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="-0.050000" z="-0.000000"/>
 			<vecInertiaMultiplier x="1.300000" y="1.300000" z="1.300000"/>
 			<fDriveBiasFront value="0.000000"/>
 			<nInitialDriveGears value="6"/>
-			<fInitialDriveForce value="0.28000"/>
+			<fInitialDriveForce value="0.275000"/>
 			<fDriveInertia value="0.800000"/>
 			<fClutchChangeRateScaleUpShift value="2.500000"/>
 			<fClutchChangeRateScaleDownShift value="2.500000"/>
-			<fInitialDriveMaxFlatVel value="289.000000"/>
-			<fBrakeForce value="10.000000"/>
+			<fInitialDriveMaxFlatVel value="127.100000"/>
+			<fBrakeForce value="1.000000"/>
 			<fBrakeBiasFront value="0.425000"/>
 			<fHandBrakeForce value="0.450000"/>
 			<fSteeringLock value="40.200000"/>
@@ -23,7 +23,7 @@
 			<fTractionCurveMin value="2.560000"/>
 			<fTractionCurveLateral value="22.500000"/>
 			<fTractionSpringDeltaMax value="0.150000"/>
-			<fLowSpeedTractionLossMult value="0.800000"/>
+			<fLowSpeedTractionLossMult value="1.000000"/>
 			<fCamberStiffnesss value="0.000000"/>
 			<fTractionBiasFront value="0.493000"/>
 			<fTractionLossMult value="1.000000"/>
