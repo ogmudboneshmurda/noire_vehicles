@@ -3,8 +3,8 @@
 	<HandlingData>
 		<Item type="CHandlingData">
 			<handlingName>gtr</handlingName>
-			<fMass value="1940.000000"/>
-			<fInitialDragCoeff value="1.500000"/>
+			<fMass value="1783.979000"/>
+			<fInitialDragCoeff value="1.200000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="-0.100000" z="0.000000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.100000"/>
