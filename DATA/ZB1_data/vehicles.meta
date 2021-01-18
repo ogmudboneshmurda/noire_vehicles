@@ -984,8 +984,8 @@
 			<modelName>bmws</modelName>
 			<txdName>bmws</txdName>
 			<handlingId>BMWS</handlingId>
-			<gameName>s1000</gameName>
-			<vehicleMakeName>bmw</vehicleMakeName>
+			<gameName>bmws</gameName>
+			<vehicleMakeName>BMW</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>

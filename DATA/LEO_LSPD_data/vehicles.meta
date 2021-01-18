@@ -266,7 +266,7 @@
 		<Item>
 			<modelName>pd3</modelName>
 			<txdName>pd3</txdName>
-			<handlingId>CHARGER</handlingId>
+			<handlingId>CHPchar</handlingId>
 			<gameName>pd3</gameName>
 			<vehicleMakeName>Dodge</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
@@ -396,7 +396,7 @@
 		<Item>
 			<modelName>pd4</modelName>
 			<txdName>pd4</txdName>
-			<handlingId>explorer13</handlingId>
+			<handlingId>CHPfpiu14</handlingId>
 			<gameName>pd4</gameName>
 			<vehicleMakeName>Ford</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
@@ -526,7 +526,7 @@
 		<Item>
 			<modelName>pd5</modelName>
 			<txdName>pd5</txdName>
-			<handlingId>explorer18</handlingId>
+			<handlingId>CHPfpiu16</handlingId>
 			<gameName>pd5</gameName>
 			<vehicleMakeName>Ford</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
