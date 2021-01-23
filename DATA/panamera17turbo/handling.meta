@@ -4,14 +4,14 @@
 		<Item type="CHandlingData">
 			<handlingName>PANAMERA17TURBO</handlingName>
 			<fMass value="1980.000000"/>
-			<fInitialDragCoeff value="3.9330001"/>
+			<fInitialDragCoeff value="3.000000"/>
 			<fDownforceModifier value="1.320000"/>
 			<fPercentSubmerged value="78.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.040000" z="-0.050000"/>
 			<vecInertiaMultiplier x="1.180000" y="1.000000" z="1.620000"/>
 			<fDriveBiasFront value="0.000000"/>
 			<nInitialDriveGears value="8"/>
-			<fInitialDriveForce value="0.252732"/>
+			<fInitialDriveForce value="0.265000"/>
 			<fDriveInertia value="0.99800003"/>
 			<fClutchChangeRateScaleUpShift value="2.900000"/>
 			<fClutchChangeRateScaleDownShift value="2.000000"/>
@@ -24,7 +24,7 @@
 			<fTractionCurveMin value="2.145000"/>
 			<fTractionCurveLateral value="21.800000"/>
 			<fTractionSpringDeltaMax value="0.134000"/>
-			<fLowSpeedTractionLossMult value="0.322"/>
+			<fLowSpeedTractionLossMult value="1.000000"/>
 			<fCamberStiffnesss value="0.000000"/>
 			<fTractionBiasFront value="0.4839282"/>
 			<fTractionLossMult value="1.280000"/>

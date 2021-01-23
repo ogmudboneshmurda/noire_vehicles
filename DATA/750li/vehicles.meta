@@ -7,7 +7,7 @@
 			<modelName>750li</modelName>
 			<txdName>750li</txdName>
 			<handlingId>750li</handlingId>
-			<gameName>750Li</gameName>
+			<gameName>750li</gameName>
 			<vehicleMakeName>BMW</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
@@ -15,7 +15,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>FUGITIVE</audioNameHash>
+			<audioNameHash>FELON</audioNameHash>
 			<layout>LAYOUT_STANDARD</layout>
 			<coverBoundOffsets>FUGITIVE_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
