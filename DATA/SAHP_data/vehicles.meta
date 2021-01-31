@@ -145,7 +145,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>GRESLEY</audioNameHash>
+			<audioNameHash>BALLER2</audioNameHash>
 			<layout>LAYOUT_STD_EXITFIXUP</layout>
 			<coverBoundOffsets>POLICE3_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -526,7 +526,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>GRESLEY</audioNameHash>
+			<audioNameHash>BALLER2</audioNameHash>
 			<layout>LAYOUT_STD_EXITFIXUP</layout>
 			<coverBoundOffsets>POLICE3_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
