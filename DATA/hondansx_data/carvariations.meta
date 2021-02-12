@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>hondansx</modelName>
+ <colors>
+        <Item>
+          <indices content="char_array">
+            61
+            0
+            0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> 
+            1
+            0
+            111
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            27
+            0
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            5
+            4
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> 
+            10
+            73
+            68
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> 
+            104
+            106
+            104
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> 
+            93
+            98
+            105
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> 
+            124
+            98
+            185
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            123
+            0
+            4
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> 
+            18
+            49
+            3
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> 
+            49
+            49
+            52
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> 
+            170
+            0
+            182
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> 
+            29
+            0
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> 
+            165
+            106
+            106
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> 
+            188
+            0
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <kitName>916_hondansx_modkit</kitName>
+         </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="25" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="10" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="15" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="124" />        
+	      <sirenSettings value="0" />
+    </Item>       
+
+  </variationData>
+</CVehicleModelInfoVariation>
