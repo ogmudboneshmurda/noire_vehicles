@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>F812</handlingName>
 			<fMass value="1600.000000"/>
-			<fInitialDragCoeff value="3.25000"/>
+			<fInitialDragCoeff value="5.250000"/>
 			<fDownforceModifier value="1.5"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000"/>
@@ -12,7 +12,7 @@
 			<fDriveBiasFront value="0.300000"/>
 			<nInitialDriveGears value="7"/>
 			<fInitialDriveForce value="0.400000"/>
-			<fDriveInertia value="1.200000"/>
+			<fDriveInertia value="1.300000"/>
 			<fClutchChangeRateScaleUpShift value="9.000000"/>
 			<fClutchChangeRateScaleDownShift value="9.000000"/>
 			<fInitialDriveMaxFlatVel value="243.900000"/>
