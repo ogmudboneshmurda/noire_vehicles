@@ -3223,47 +3223,6 @@
 			<sirenSettings value="0" />
 		</Item>
 		<Item>
-			<modelName>c10custom</modelName>
-			<colors>
-				<Item>
-					<indices content="char_array">
-            0 
-            0 
-            20 
-            156 
-          </indices>
-					<liveries>
-						<Item value="false" />
-						<Item value="false" />
-						<Item value="false" />
-						<Item value="false" />
-						<Item value="false" />
-						<Item value="false" />
-						<Item value="false" />
-						<Item value="false" />
-					</liveries>
-				</Item>
-			</colors>
-			<kits>
-				<Item>1028_c10custom_modkit</Item>
-			</kits>
-			<windowsWithExposedEdges />
-			<plateProbabilities>
-				<Probabilities>
-					<Item>
-						<Name>Blue Plate</Name>
-						<Value value="70" />
-					</Item>
-					<Item>
-						<Name>Yellow Plate</Name>
-						<Value value="30" />
-					</Item>
-				</Probabilities>
-			</plateProbabilities>
-			<lightSettings value="1028" />
-			<sirenSettings value="0" />
-		</Item>
-		<Item>
 			<modelName>xlrv</modelName>
 			<colors>
 				<Item>
