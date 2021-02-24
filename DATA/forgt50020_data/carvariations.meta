@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>forgt50020</modelName>
+      <colors>
+        <Item>	<!-- Rapid Red -->
+          <indices content="char_array">
+            32
+            1
+            27
+            5 
+			111	    
+			2
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>     
+        <Item>	<!-- Twister Orange -->
+          <indices content="char_array">
+            38
+            1
+            37
+            5 
+			111	    
+			2
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>     
+        <Item>	<!-- Shadow Black -->
+          <indices content="char_array">
+            0
+            1
+            2
+            5 
+			111	    
+			2
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>     
+        <Item>	<!-- Grabber Lime -->
+          <indices content="char_array">
+            92
+            1
+            125
+            5 
+			111	    
+			2
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>     
+        <Item>	<!-- Magnetic -->
+          <indices content="char_array">
+            8
+            1
+            8
+            5 
+			111	    
+			2
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>     
+        <Item>	<!-- Ford Performance Blue -->
+          <indices content="char_array">
+            69
+            1
+            70
+            5 
+			111	    
+			2
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>     
+        <Item>	<!-- Iconic Silver -->
+          <indices content="char_array">
+            5
+            1
+            122
+            5 
+			111	    
+			2
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>     
+        <Item>	<!-- Kona Blue -->
+          <indices content="char_array">
+            62
+            1
+            64
+            5 
+			111	    
+			2
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>     
+        <Item>	<!-- Velocity Blue -->
+          <indices content="char_array">
+            140
+            1
+            67
+            5 
+			111	    
+			2
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>     
+        <Item>	<!-- Oxford White -->
+          <indices content="char_array">
+            132
+            1
+            112
+            5 
+			111	    
+			2
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>     
+        <Item>	<!-- Race Red -->
+          <indices content="char_array">
+            29
+            1
+            33
+            5 
+			111	    
+			2
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="true" />
+          </liveries>
+        </Item>     
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="931" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

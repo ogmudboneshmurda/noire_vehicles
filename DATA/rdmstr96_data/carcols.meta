@@ -1,130 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<CVehicleModelInfoVarGlobal>     
+    
+<CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>2046_rrghost21_modkit</kitName>
-      <id value="2046" />	 	  
-      <kitType>MKT_SPECIAL</kitType>
-      <visibleMods>
-        <Item>
-          <modelName>rrghost21_arch_1a</modelName>
-          <modShopLabel>COM_ARCH</modShopLabel>
-          <linkedModels>
-            <Item>rrghost21_arch_1b</Item>
-            <Item>rrghost21_arch_1c</Item>
-            <Item>rrghost21_arch_1d</Item>
-            <Item>rrghost21_arch_1e</Item>
-            <Item>rrghost21_arch_1f</Item>
-            <Item>rrghost21_arch_1g</Item>
-            <Item>rrghost21_arch_1h</Item>
-            <Item>rrghost21_arch_1i</Item>
-            <Item>rrghost21_arch_1j</Item>
-            <Item>rrghost21_arch_1k</Item>
-            <Item>rrghost21_arch_1l</Item>
-            <Item>rrghost21_arch_1m</Item>
-            <Item>rrghost21_arch_1n</Item>
-          </linkedModels>
-          <turnOffBones/>
-          <type>VMT_WING_L</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="20"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-          <weaponSlot value="0"/>
-          <disableProjectileDriveby value="false"/>
-          <disableDriveby value="false"/>
-        </Item>
-      </visibleMods>
-      <linkMods>
-        <Item>
-          <modelName>rrghost21_arch_1b</modelName>
-          <bone>chassis</bone>
-          <turnOffExtra value="false"/>
-        </Item>
-        <Item>
-          <modelName>rrghost21_arch_1c</modelName>
-          <bone>chassis</bone>
-          <turnOffExtra value="false"/>
-        </Item>
-        <Item>
-          <modelName>rrghost21_arch_1d</modelName>
-          <bone>chassis</bone>
-          <turnOffExtra value="false"/>
-        </Item>
-        <Item>
-          <modelName>rrghost21_arch_1e</modelName>
-          <bone>chassis</bone>
-          <turnOffExtra value="false"/>
-        </Item>
-        <Item>
-          <modelName>rrghost21_arch_1f</modelName>
-          <bone>chassis</bone>
-          <turnOffExtra value="false"/>
-        </Item>
-        <Item>
-          <modelName>rrghost21_arch_1g</modelName>
-          <bone>chassis</bone>
-          <turnOffExtra value="false"/>
-        </Item>
-        <Item>
-          <modelName>rrghost21_arch_1h</modelName>
-          <bone>chassis</bone>
-          <turnOffExtra value="false"/>
-        </Item>
-        <Item>
-          <modelName>rrghost21_arch_1i</modelName>
-          <bone>chassis</bone>
-          <turnOffExtra value="false"/>
-        </Item>
-        <Item>
-          <modelName>rrghost21_arch_1j</modelName>
-          <bone>chassis</bone>
-          <turnOffExtra value="false"/>
-        </Item>
-        <Item>
-          <modelName>rrghost21_arch_1k</modelName>
-          <bone>chassis</bone>
-          <turnOffExtra value="false"/>
-        </Item>
-        <Item>
-          <modelName>rrghost21_arch_1l</modelName>
-          <bone>chassis</bone>
-          <turnOffExtra value="false"/>
-        </Item>
-        <Item>
-          <modelName>rrghost21_arch_1m</modelName>
-          <bone>chassis</bone>
-          <turnOffExtra value="false"/>
-        </Item>
-        <Item>
-          <modelName>rrghost21_arch_1n</modelName>
-          <bone>chassis</bone>
-          <turnOffExtra value="false"/>
-        </Item>
-      </linkMods>
+      <kitName>1011_rdmstr96_modkit</kitName>
+      <id value="1011" />	 	  
+      <kitType>MKT_STANDARD</kitType>
+      <visibleMods />
+      <linkMods />
       <statMods>
+        <Item>
+          <identifier />
+          <modifier value="5" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="10" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
         <Item>
           <identifier />
           <modifier value="15" />
           <audioApply value="1.000000" />
-          <weight value="20" />
-          <type>VMT_ENGINE</type>
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
         </Item>
         <Item>
           <identifier />
-          <modifier value="20" />
-          <audioApply value="1.000000" />
-          <weight value="20" />
-          <type>VMT_ENGINE</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="35" />
+          <modifier value="25" />
           <audioApply value="1.000000" />
           <weight value="20" />
           <type>VMT_ENGINE</type>
@@ -138,10 +46,17 @@
         </Item>
         <Item>
           <identifier />
-          <modifier value="15" />
+          <modifier value="75" />
           <audioApply value="1.000000" />
-          <weight value="5" />
-          <type>VMT_BRAKES</type>
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
         </Item>
         <Item>
           <identifier />
@@ -152,28 +67,35 @@
         </Item>
         <Item>
           <identifier />
-          <modifier value="50" />
+          <modifier value="65" />
           <audioApply value="1.000000" />
           <weight value="5" />
           <type>VMT_BRAKES</type>
         </Item>
         <Item>
           <identifier />
-          <modifier value="15" />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
           <audioApply value="1.000000" />
           <weight value="5" />
           <type>VMT_GEARBOX</type>
         </Item>
         <Item>
           <identifier />
-          <modifier value="20" />
+          <modifier value="50" />
           <audioApply value="1.000000" />
           <weight value="5" />
           <type>VMT_GEARBOX</type>
         </Item>
         <Item>
           <identifier />
-          <modifier value="80" />
+          <modifier value="100" />
           <audioApply value="1.000000" />
           <weight value="5" />
           <type>VMT_GEARBOX</type>
@@ -269,7 +191,7 @@
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		    <Item>
+		<Item>
           <identifier>HORN_SAD_TROMBONE</identifier>
           <modifier value="632950117" />
           <audioApply value="1.000000" />
@@ -317,70 +239,70 @@
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-	    	</Item>
-	    	<Item>
+		</Item>
+		<Item>
           <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
           <modifier value="3203290992" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-    		</Item>
-	    	<Item>
+		</Item>
+		<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
           <modifier value="771284519" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-	    	</Item>
-	    	<Item>
+		</Item>
+		<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
           <modifier value="2586621229" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-	    	</Item>
-	    	<Item>
+		</Item>
+		<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
           <modifier value="283386134" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-	    	</Item>
-	    	<Item>
+		</Item>
+		<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
           <modifier value="3884502400" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-    		</Item>
-    		<Item>
+		</Item>
+		<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
           <modifier value="265723083" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-    		</Item>
-	    	<Item>
+		</Item>
+		<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
           <modifier value="1746883687" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-    		</Item>
-	    	<Item>
+		</Item>
+		<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
           <modifier value="1919870950" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-    		</Item>
-    		<Item>
+		</Item>
+		<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
           <modifier value="1085277077" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-    		</Item>
+		</Item>
         <Item>
           <identifier>HIPSTER_HORN_1</identifier>
           <modifier value="444549672" />
@@ -437,84 +359,14 @@
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-	    	<Item>
-          <identifier>LUXE_HORN_1</identifier>
-          <modifier value="3199657341" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_HORN</type>
-        </Item>
-	    	<Item>
-          <identifier>LUXE_HORN_2</identifier>
-          <modifier value="2900378064" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_HORN</type>
-        </Item>
-	    	<Item>
-          <identifier>LUXE_HORN_3</identifier>
-          <modifier value="3956195248" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_HORN</type>
-        </Item>
-		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
-	    	<Item>
-          <identifier>LUXORY_HORN_1</identifier>
-          <modifier value="676333254" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_HORN</type>
-        </Item>
-		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
-    		<Item>
-          <identifier>LUXURY_HORN_2</identifier>
-          <modifier value="2099578296" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_HORN</type>
-        </Item>
-		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
-	    	<Item>
-          <identifier>LUXURY_HORN_3</identifier>
-          <modifier value="1373384483" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_HORN</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="1" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_SUSPENSION</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="2" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_SUSPENSION</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="3" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_SUSPENSION</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="4" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_SUSPENSION</type>
-        </Item>
       </statMods>
-      <slotNames />
+      <slotNames>
+        <Item>
+          <slot>VMT_CHASSIS</slot>
+          <name>TOP_BODY</name>
+        </Item>
+      </slotNames>
       <liveryNames />
     </Item>
   </Kits>
-  <Lights>
-  </Lights>	
 </CVehicleModelInfoVarGlobal>
