@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_flhxs_streetglide_special18_VEH</lockHash>
+			<modelNameHash>flhxs_streetglide_special18</modelNameHash>
+			<cost value ="0"/>
+			<textLabel>flhxs_streetglide_special18</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+	</Vehicles>	
+</ShopVehicleDataArray>
