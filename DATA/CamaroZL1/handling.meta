@@ -3,13 +3,13 @@
 	<HandlingData>
 		<Item type="CHandlingData">
 			<handlingName>2018zl1</handlingName>
-			<fMass value="1865.000000"/>
+			<fMass value="1905.000000"/>
 			<fInitialDragCoeff value="3.500000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="-0.070000" z="-0.200000"/>
 			<vecInertiaMultiplier x="1.200000" y="1.200000" z="1.400000"/>
 			<fDriveBiasFront value="0.000000"/>
-			<nInitialDriveGears value="10"/>
+			<nInitialDriveGears value="6"/>
 			<fInitialDriveForce value="0.335000"/>
 			<fDriveInertia value="1.000000"/>
 			<fClutchChangeRateScaleUpShift value="3.100000"/>
