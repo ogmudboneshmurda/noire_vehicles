@@ -1396,7 +1396,7 @@
 			<modelName>m3e30</modelName>
 			<txdName>m3e30</txdName>
 			<handlingId>M3E30</handlingId>
-			<gameName>M3</gameName>
+			<gameName>m3e30</gameName>
 			<vehicleMakeName>BMW</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
@@ -1501,7 +1501,7 @@
 			<modelName>boss429</modelName>
 			<txdName>boss429</txdName>
 			<handlingId>BOSS429</handlingId>
-			<gameName>MUSTANG</gameName>
+			<gameName>boss429</gameName>
 			<vehicleMakeName>FORD</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
