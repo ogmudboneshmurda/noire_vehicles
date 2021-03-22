@@ -8,14 +8,14 @@
 			<txdName>gtr</txdName>
 			<handlingId>gtr</handlingId>
 			<gameName>GTR</gameName>
-			<vehicleMakeName>Nissan</vehicleMakeName>
+			<vehicleMakeName>NISSAN</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>rb26dett</audioNameHash>
+			<audioNameHash>SULTANRS</audioNameHash>
 			<layout>LAYOUT_LOW</layout>
 			<coverBoundOffsets>ELEGY_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
