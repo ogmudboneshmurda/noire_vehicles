@@ -5,13 +5,13 @@
    <Item type="CHandlingData">
       <handlingName>teslax</handlingName>
       <fMass value="2200.000000" />
-      <fInitialDragCoeff value="6.000000" />
+      <fInitialDragCoeff value="7.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.100000" z="0.000000" />
       <vecInertiaMultiplier x="1.100000" y="1.100000" z="1.100000" />
       <fDriveBiasFront value="0.440000" />
       <nInitialDriveGears value="1" />
-      <fInitialDriveForce value="1.100000" />
+      <fInitialDriveForce value="0.270000" />
       <fDriveInertia value="1.000000" />
       <fClutchChangeRateScaleUpShift value="1.200000" />
       <fClutchChangeRateScaleDownShift value="1.200000" />
