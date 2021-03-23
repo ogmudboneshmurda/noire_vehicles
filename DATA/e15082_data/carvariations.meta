@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>e15082</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Raven Black -->
+            0
+            0
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Wimbledon White -->
+            111
+            111
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Candyapple Red -->
+            29
+            29
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Silver Metallic -->
+            4
+            4
+            5
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Medium Grey Metallic -->
+            8
+            8
+            5
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Midnight Blue Metallic -->
+            164
+            164
+            68
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dark Silver Blue Metallic -->
+            62
+            62
+            127
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Light Blue -->
+            176
+            176
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dark Spruce Metallic -->
+            50
+            50
+            54
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Pastel Vanilla -->
+            169
+            169
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Medium Caramel Metallic -->
+            104
+            104
+            3
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dark Brown Metallic -->
+            103
+            103
+            3
+            156
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
