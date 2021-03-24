@@ -4,13 +4,13 @@
 		<Item type="CHandlingData">
 			<handlingName>XNSGT</handlingName>
 			<fMass value="1800.000000"/>
-			<fInitialDragCoeff value="5.208000"/>
+			<fInitialDragCoeff value="5.000000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="-0.155000" z="-0.025000"/>
 			<vecInertiaMultiplier x="0.990000" y="0.990000" z="1.770000"/>
 			<fDriveBiasFront value="0.300000"/>
 			<nInitialDriveGears value="7"/>
-			<fInitialDriveForce value="0.250000"/>
+			<fInitialDriveForce value="0.300000"/>
 			<fDriveInertia value="0.800000"/>
 			<fClutchChangeRateScaleUpShift value="8.000000"/>
 			<fClutchChangeRateScaleDownShift value="7.000000"/>
@@ -31,8 +31,8 @@
 			<fSuspensionCompDamp value="0.900000"/>
 			<fSuspensionReboundDamp value="0.800000"/>
 			<fSuspensionUpperLimit value="0.045000"/>
-			<fSuspensionLowerLimit value="-0.010000"/>
-			<fSuspensionRaise value="0.100000"/>
+			<fSuspensionLowerLimit value="-0.050000"/>
+			<fSuspensionRaise value="0.020000"/>
 			<fSuspensionBiasFront value="0.520000"/>
 			<fAntiRollBarForce value="0.000000"/>
 			<fAntiRollBarBiasFront value="0.520000"/>

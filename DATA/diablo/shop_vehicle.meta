@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_DIABLO_VEH</lockHash>
+			<modelNameHash>diablo</modelNameHash>
+			<cost value="100"/>
+			<textLabel>DIABLO</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+	</Vehicles>
+</ShopVehicleDataArray>
