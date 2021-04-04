@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>sixtyone41</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">  <!-- Black -->
+            0
+            0
+            0
+            46 
+			129
+			112
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Triumph Blue Metallic -->
+            164
+            106
+            146
+            46 
+			129
+			4
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Dartmouth Gray -->
+            49
+            99
+            0
+            46 
+			129
+			0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Tyrolian Gray -->
+            10
+            106
+            1
+            46 
+			129
+			7
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Cypress Green Metallic -->
+            50
+            99
+            51
+            46 
+			129
+			73
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- El Paso Beige Metallic -->
+            93
+            0
+            0
+            46 
+			129
+			66
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Horizon Blue -->
+            178
+            99
+            0
+            46 
+			129
+			28
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Madeira Maroon Metallic -->
+            167
+            106
+            101
+            46 
+			129
+			38
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- French Gray -->
+            5
+            0
+            0
+            46 
+			129
+			53
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Kingswood Gray Metallic -->
+            8
+            98
+            2
+            46 
+			129
+			55
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Lucerne Green Metallic -->
+            54
+            113
+            51
+            46 
+			129
+			67
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Corinth Blue -->
+            74
+            106
+            0
+            46
+			129
+			73
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Chartreuse -->
+            179
+            0
+            0
+            46 
+			129
+			92
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Fiesta Ivory -->
+            169
+            98
+            0
+            46 
+			129
+			77
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Vista Gray Metallic -->
+            6
+            113
+            4
+            46 
+			129
+			77
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

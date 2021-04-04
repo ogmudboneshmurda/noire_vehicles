@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShopVehicleDataArray>
+	<Vehicles>
+	<Item>
+		<lockHash>CU_VEH_f350offroadspec</lockHash>
+		<modelNameHash>f350offroadspec</modelNameHash>
+		<cost value="100"/>
+		<textLabel>f350offroadspec</textLabel>
+		<textLabel></textLabel>
+	</Item>
+	</Vehicles>
+</ShopVehicleDataArray>

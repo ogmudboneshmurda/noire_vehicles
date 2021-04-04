@@ -4,16 +4,16 @@
 		<Item type="CHandlingData">
 			<handlingName>MODELS</handlingName>
 			<fMass value="1800.000000"/>
-			<fInitialDragCoeff value="8.300000"/>
+			<fInitialDragCoeff value="9.100000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.100000" z="-0.050000"/>
 			<vecInertiaMultiplier x="1.200000" y="1.200000" z="1.400000"/>
 			<fDriveBiasFront value="0.500000"/>
 			<nInitialDriveGears value="1"/>
-			<fInitialDriveForce value="0.280000"/>
-			<fDriveInertia value="1.100000"/>
-			<fClutchChangeRateScaleUpShift value="1.300000"/>
-			<fClutchChangeRateScaleDownShift value="1.300000"/>
+			<fInitialDriveForce value="0.260000"/>
+			<fDriveInertia value="1.000000"/>
+			<fClutchChangeRateScaleUpShift value="1.000000"/>
+			<fClutchChangeRateScaleDownShift value="1.000000"/>
 			<fInitialDriveMaxFlatVel value="178.750000"/>
 			<fBrakeForce value="1.000000"/>
 			<fBrakeBiasFront value="0.650000"/>

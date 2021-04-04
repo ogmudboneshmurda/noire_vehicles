@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+		<Item>
+      <modelName>f350offroadspec</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Black / Black -->
+            0
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Black / Chrome -->
+            0
+            120
+            117
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- White -->
+            112
+            120
+            2
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Red -->
+            27
+            120
+            3
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cabernet -->
+            34
+            120
+            2
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dark Blue -->
+            62
+            120
+            4
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Sienna -->
+            104
+            120
+            4
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dark Earth / Black -->
+            153
+            12
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

@@ -4,8 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>98CROWNVIC</handlingName>
 			<fMass value="2276.000000"/>
-			<fInitialDragCoeff value="0.370000"/>
-			<fDownforceModifier value="1.500000"/>
+			<fInitialDragCoeff value="6.370000"/>			
 			<fPercentSubmerged value="80.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.200000" z="0.040000"/>
 			<vecInertiaMultiplier x="1.500000" y="1.750000" z="2.250000"/>
@@ -21,10 +20,10 @@
 			<fHandBrakeForce value="0.901000"/>
 			<fSteeringLock value="36.000000"/>
 			<fTractionCurveMax value="1.500000"/>
-			<fTractionCurveMin value="1.270000"/>
+			<fTractionCurveMin value="1.470000"/>
 			<fTractionCurveLateral value="19.500000"/>
 			<fTractionSpringDeltaMax value="0.150000"/>
-			<fLowSpeedTractionLossMult value="0.000000"/>
+			<fLowSpeedTractionLossMult value="0.800000"/>
 			<fCamberStiffnesss value="0.100000"/>
 			<fTractionBiasFront value="0.485000"/>
 			<fTractionLossMult value="1.040000"/>
@@ -39,10 +38,10 @@
 			<fAntiRollBarBiasFront value="0.600000"/>
 			<fRollCentreHeightFront value="0.340000"/>
 			<fRollCentreHeightRear value="0.340000"/>
-			<fCollisionDamageMult value="1.800000"/>
-			<fWeaponDamageMult value="1.800000"/>
-			<fDeformationDamageMult value="1.800000"/>
-			<fEngineDamageMult value="1.500000"/>
+			<fCollisionDamageMult value="1.000000"/>
+			<fWeaponDamageMult value="1.000000"/>
+			<fDeformationDamageMult value="1.000000"/>
+			<fEngineDamageMult value="1.000000"/>
 			<fPetrolTankVolume value="72.000000"/>
 			<fOilVolume value="4.700000"/>
 			<fSeatOffsetDistX value="0.000000"/>

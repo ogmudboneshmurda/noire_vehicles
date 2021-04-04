@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>gtorino76</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Black -->
+            0
+            0
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Silver Metallic -->
+            4
+            4
+            4
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Bright Red -->
+            28
+            28
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dark Red -->
+            31
+            31
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dark Blue Metallic -->
+            62
+            62
+            127
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Silver Blue Glow -->
+            74
+            74
+            5
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Light Blue -->
+            157
+            157
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Green Glow -->
+            182
+            182
+            5
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dark Yellow Green Metallic -->
+            183
+            183
+            183
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Light Green -->
+            179
+            179
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dark Brown Metallic -->
+            101
+            101
+            97
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Saddle Bronze Metallic -->
+            90
+            90
+            165
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Tan -->
+            184
+            184
+            37
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cream -->
+            169
+            169
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Golden Glow -->
+            185
+            185
+            90
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Polar White -->
+            111
+            111
+            0
+            156
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="499" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

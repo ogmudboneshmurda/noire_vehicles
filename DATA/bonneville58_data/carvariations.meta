@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>bonneville58</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Mallard Turquoise / Marlin Turquoise -->
+            199
+            195
+            68
+			0
+            195
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Marlin Turquoise / Mallard Turquoise -->
+            195
+            199
+            68
+			0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Deauville Blue / Kashmir Blue -->
+            65
+            67
+            4
+			0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Kashmir Blue / Deauville Blue -->
+            67
+            65
+            4
+			0
+            65
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Burma Green / Calypso Green -->
+            219
+            220
+            4
+			0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Calypso Green / Burma Green -->
+            220
+            219
+            4
+			0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Patina Ivory / Kashmir Blue -->
+            111
+            67
+            4
+			0
+            67
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Redwood Copper / Patina Ivory -->
+            166
+            111
+            4
+			0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Starmist Silver / Patina Ivory -->
+            4
+            111
+            5
+			0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Persian Black / Graystone White --> 
+            0
+            111
+            0
+            0
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Persian Black / Rangoon Red --> 
+            0
+            27
+            0
+			0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Graystone White / Rangoon Red -->
+            111
+            27
+            68
+			0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Rangoon Red / Graystone White -->
+            27
+            111
+            0
+			0
+            111
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="500" />
+      <sirenSettings value="0" />
+    </Item>
+     <Item>
+      <modelName>bonneville58c</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Mallard Turquoise / Marlin Turquoise -->
+            199
+            195
+            68
+			0
+            195
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Marlin Turquoise / Mallard Turquoise -->
+            195
+            199
+            68
+			0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Deauville Blue / Kashmir Blue -->
+            65
+            67
+            4
+			0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Kashmir Blue / Deauville Blue -->
+            67
+            65
+            4
+			0
+            65
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Burma Green / Calypso Green -->
+            219
+            220
+            4
+			0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Calypso Green / Burma Green -->
+            220
+            219
+            4
+			0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Patina Ivory / Kashmir Blue -->
+            111
+            67
+            4
+			0
+            67
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Redwood Copper / Patina Ivory -->
+            166
+            111
+            4
+			0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Starmist Silver / Patina Ivory -->
+            4
+            111
+            5
+			0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Persian Black / Graystone White --> 
+            0
+            111
+            0
+            0
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Persian Black / Rangoon Red --> 
+            0
+            27
+            0
+			0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Graystone White / Rangoon Red -->
+            111
+            27
+            68
+			0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Rangoon Red / Graystone White -->
+            27
+            111
+            0
+			0
+            111
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="500" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
