@@ -4,8 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>forgt50020</handlingName>
 			<fMass value="1850.0"/>
-			<fInitialDragCoeff value="3.30"/>
-			<fDownforceModifier value="1.500000"/>
+			<fInitialDragCoeff value="3.30"/>			
 			<fPercentSubmerged value="72.0"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.150000"/>
 			<vecInertiaMultiplier x="1.300000" y="1.200000" z="1.800000"/>
@@ -16,7 +15,7 @@
 			<fClutchChangeRateScaleUpShift value="9.0"/>
 			<fClutchChangeRateScaleDownShift value="9.0"/>
 			<fInitialDriveMaxFlatVel value="196.0"/>
-			<fBrakeForce value="3.500000"/>
+			<fBrakeForce value="1.000000"/>
 			<fBrakeBiasFront value="0.63472"/>
 			<fHandBrakeForce value="0.8"/>
 			<fSteeringLock value="35.1"/>

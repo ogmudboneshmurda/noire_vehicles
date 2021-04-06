@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+	 <Item>
+      <modelName>chall70</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            30
+            30
+            4 
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            5 
+            5 
+            4 
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            73 
+            73 
+            4 
+            156 
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34 
+            34 
+            4 
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            36
+            36
+            4
+            156 
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            8
+            4 
+            156 
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            11 
+            11 
+            4
+            156 
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            28
+            28
+            4 	
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            20
+            20
+            4 
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            51
+            51
+            4 
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            92
+            92
+            4 
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            107 
+            107 
+            4 
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            145 
+            145 
+            87 
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            157 
+            157 
+            4 
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            19
+            19 
+            4 
+            156
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>chall70_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+	 <Item>
+      <modelName>chall70drag</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            30
+            30
+            4 
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            5 
+            5 
+            4 
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            73 
+            73 
+            4 
+            156 
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34 
+            34 
+            4 
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            36
+            36
+            4
+            156 
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            8
+            4 
+            156 
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            11 
+            11 
+            4
+            156 
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            28
+            28
+            4 	
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            20
+            20
+            4 
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            51
+            51
+            4 
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            92
+            92
+            4 
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            107 
+            107 
+            4 
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            145 
+            145 
+            87 
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            157 
+            157 
+            4 
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            19
+            19 
+            4 
+            156
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>chall70_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>White Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
