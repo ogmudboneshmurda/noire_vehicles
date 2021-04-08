@@ -8,10 +8,10 @@
 			<fPercentSubmerged value="80"/>
 			<vecCentreOfMassOffset x="0" y="0.1" z="0.0"/>
 			<vecInertiaMultiplier x="1" y="1" z="1.4"/>
-			<fDriveBiasFront value="0"/>
+			<fDriveBiasFront value="0.1"/>
 			<nInitialDriveGears value="4"/>
 			<fInitialDriveForce value="0.32"/>
-			<fDriveInertia value="2"/>
+			<fDriveInertia value="1"/>
 			<fClutchChangeRateScaleUpShift value="3"/>
 			<fClutchChangeRateScaleDownShift value="3"/>
 			<fInitialDriveMaxFlatVel value="180"/>
@@ -21,9 +21,9 @@
 			<fSteeringLock value="35"/>
 			<fTractionCurveMax value="1.5"/>
 			<fTractionCurveMin value="1.34"/>
-			<fTractionCurveLateral value="16"/>
+			<fTractionCurveLateral value="22.5"/>
 			<fTractionSpringDeltaMax value="0.1"/>
-			<fLowSpeedTractionLossMult value="1.5"/>
+			<fLowSpeedTractionLossMult value="1.0"/>
 			<fCamberStiffnesss value="0"/>
 			<fTractionBiasFront value="0.48"/>
 			<fTractionLossMult value="0.7"/>

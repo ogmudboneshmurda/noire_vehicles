@@ -85,7 +85,7 @@
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_BACK_PLATES</plateType>
 			<dashboardType>VDT_DUKES</dashboardType>
-			<vehicleClass>VC_IMUSCLE</vehicleClass>
+			<vehicleClass>VC_MUSCLE</vehicleClass>
 			<wheelType>VWT_MUSCLE</wheelType>
 			<trailers/>
 			<additionalTrailers/>

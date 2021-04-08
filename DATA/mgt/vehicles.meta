@@ -85,7 +85,7 @@
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 			<dashboardType>VDT_ZTYPE</dashboardType>
-			<vehicleClass>VC_IMUSCLE</vehicleClass>
+			<vehicleClass>VC_MUSCLE</vehicleClass>
 			<wheelType>VWT_HIEND</wheelType>
 			<trailers/>
 			<additionalTrailers/>
