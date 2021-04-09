@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>TSGR20</handlingName>
 			<fMass value="1600.000000"/>
-			<fInitialDragCoeff value="9.2500000"/>
+			<fInitialDragCoeff value="5.2500000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.11000" z="0.000000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.200000" z="1.400000"/>
@@ -14,7 +14,7 @@
 			<fDriveInertia value="1.000000"/>
 			<fClutchChangeRateScaleUpShift value="3.300000"/>
 			<fClutchChangeRateScaleDownShift value="3.300000"/>
-			<fInitialDriveMaxFlatVel value="156.000000"/>
+			<fInitialDriveMaxFlatVel value="189.000000"/>
 			<fBrakeForce value="0.950000"/>
 			<fBrakeBiasFront value="0.510000"/>
 			<fHandBrakeForce value="0.450000"/>
