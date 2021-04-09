@@ -4,32 +4,32 @@
 		<Item type="CHandlingData">
 			<handlingName>98CROWNVIC</handlingName>
 			<fMass value="2276.000000"/>
-			<fInitialDragCoeff value="6.370000"/>			
+			<fInitialDragCoeff value="6.000000"/>			
 			<fPercentSubmerged value="80.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.200000" z="0.040000"/>
 			<vecInertiaMultiplier x="1.500000" y="1.750000" z="2.250000"/>
 			<fDriveBiasFront value="0.000000"/>
 			<nInitialDriveGears value="4"/>
-			<fInitialDriveForce value="0.220000"/>
-			<fDriveInertia value="1.002222"/>
-			<fClutchChangeRateScaleUpShift value="1.200000"/>
-			<fClutchChangeRateScaleDownShift value="1.300000"/>
+			<fInitialDriveForce value="0.240000"/>
+			<fDriveInertia value="1.000000"/>
+			<fClutchChangeRateScaleUpShift value="1.500000"/>
+			<fClutchChangeRateScaleDownShift value="1.500000"/>
 			<fInitialDriveMaxFlatVel value="142.000000"/>
-			<fBrakeForce value="1.000000"/>
-			<fBrakeBiasFront value="0.525100"/>
-			<fHandBrakeForce value="0.901000"/>
+			<fBrakeForce value="1.500000"/>
+			<fBrakeBiasFront value="0.600000"/>
+			<fHandBrakeForce value="0.900000"/>
 			<fSteeringLock value="36.000000"/>
-			<fTractionCurveMax value="1.500000"/>
-			<fTractionCurveMin value="1.470000"/>
-			<fTractionCurveLateral value="19.500000"/>
+			<fTractionCurveMax value="2.500000"/>
+			<fTractionCurveMin value="2.470000"/>
+			<fTractionCurveLateral value="22.500000"/>
 			<fTractionSpringDeltaMax value="0.150000"/>
 			<fLowSpeedTractionLossMult value="0.800000"/>
 			<fCamberStiffnesss value="0.100000"/>
 			<fTractionBiasFront value="0.485000"/>
 			<fTractionLossMult value="1.040000"/>
-			<fSuspensionForce value="2.250000"/>
-			<fSuspensionCompDamp value="1.125000"/>
-			<fSuspensionReboundDamp value="0.750000"/>
+			<fSuspensionForce value="1.800000"/>
+			<fSuspensionCompDamp value="0.800000"/>
+			<fSuspensionReboundDamp value="1.500000"/>
 			<fSuspensionUpperLimit value="0.096000"/>
 			<fSuspensionLowerLimit value="-0.139000"/>
 			<fSuspensionRaise value="0.000000"/>
@@ -42,7 +42,7 @@
 			<fWeaponDamageMult value="1.000000"/>
 			<fDeformationDamageMult value="1.000000"/>
 			<fEngineDamageMult value="1.000000"/>
-			<fPetrolTankVolume value="72.000000"/>
+			<fPetrolTankVolume value="65.000000"/>
 			<fOilVolume value="4.700000"/>
 			<fSeatOffsetDistX value="0.000000"/>
 			<fSeatOffsetDistY value="0.000000"/>
