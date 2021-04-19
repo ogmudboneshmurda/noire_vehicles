@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+<variationData>
+     <Item>
+      <modelName>diplomat83</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">  <!-- Formal Black -->
+            0
+            5
+            0
+            0
+						0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Pearl White -->
+            111
+            107
+            0
+            0
+						111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Nightwatch Blue -->
+            62
+            69
+            0
+            0
+						62
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Sable Brown -->
+            97
+            69
+            0
+            0
+						97
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Crimson Red -->
+            27
+            28
+            0
+            0
+						27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Charcoal Gray -->
+            3
+            28
+            5
+            0
+						3
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Glacier Blue -->
+            157
+            5
+            5
+            0
+						157
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Beige -->
+            105
+            107
+            5
+            0
+						105
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Silver -->
+            5
+            5
+            5
+            0
+						5
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Formal Black -->
+            0
+            69
+            0
+            0
+						69
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Pearl White -->
+            111
+            28
+            0
+            28
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Nightwatch Blue -->
+            62
+            107
+            0
+            0
+						62
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Sable Brown -->
+            97
+            5
+            0
+            0
+						97
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Crimson Red -->
+            27
+            5
+            0
+            0
+						5
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Charcoal Gray -->
+            3
+            69
+            5
+            0
+						69
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Glacier Blue -->
+            157
+            69
+            5
+            0
+						69
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Beige -->
+            105
+            28
+            5
+            0
+						28
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Silver -->
+            5
+            69
+            5
+            0
+						69
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1983_dippy_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="25" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="25" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1983" />
+      <sirenSettings value="0" />
+    </Item>
+</variationData>
+</CVehicleModelInfoVariation>

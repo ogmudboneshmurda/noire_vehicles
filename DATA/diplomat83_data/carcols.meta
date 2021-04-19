@@ -1,0 +1,1688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+<Kits>
+	<Item>
+
+      <kitName>1983_dippy_modkit</kitName>
+      <id value="1983"/>
+      <kitType>MKT_STANDARD</kitType>
+
+      <visibleMods>
+<!-- TRUNK MODS -->
+        <Item>
+          <modelName>au_virgo1</modelName>
+          <modShopLabel>d_audio1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>misc_d</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+        <Item>
+          <modelName>au_virgo2</modelName>
+          <modShopLabel>d_audio2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>misc_d</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+
+<!-- ANTENNA MODS -->
+        <Item>
+          <modelName>ant2</modelName>
+          <modShopLabel>r_ant</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>  
+        <Item>
+          <modelName>ant3</modelName>
+          <modShopLabel>r_ant_duo</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_c</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+
+<!-- SPOILER MODS -->
+        <Item>
+          <modelName>SP_classic</modelName>
+          <modShopLabel>cl_spoiler</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+        <Item>
+          <modelName>SP_classicb</modelName>
+          <modShopLabel>cl_spoilerb</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+
+<!-- STEERING MODS -->
+        <Item>
+          <modelName>GT_lea</modelName>
+          <modShopLabel>Grant_lea</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+        <Item>
+          <modelName>GT_wood</modelName>
+          <modShopLabel>Grant_wood</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>steeringwheel</Item>
+          </turnOffBones>
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1"/>
+          <weight value="20"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+<!-- BOBBLE MODS -->
+        <Item>
+          <modelName>bobble_mar1_head</modelName>
+          <modShopLabel>BOBBLE_MAR1</modShopLabel>
+          <linkedModels>
+            <Item>bobble_mar1_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_mar2_head</modelName>
+          <modShopLabel>BOBBLE_MAR2</modShopLabel>
+          <linkedModels>
+            <Item>bobble_mar2_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_mar3_head</modelName>
+          <modShopLabel>BOBBLE_MAR3</modShopLabel>
+          <linkedModels>
+            <Item>bobble_mar3_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_bat1_head</modelName>
+          <modShopLabel>BOBBLE_BAT1</modShopLabel>
+          <linkedModels>
+            <Item>bobble_bat1_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_bat2_head</modelName>
+          <modShopLabel>BOBBLE_BAT2</modShopLabel>
+          <linkedModels>
+            <Item>bobble_bat2_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_bat3_head</modelName>
+          <modShopLabel>BOBBLE_BAT3</modShopLabel>
+          <linkedModels>
+            <Item>bobble_bat3_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_bsk1_head</modelName>
+          <modShopLabel>BOBBLE_BSK1</modShopLabel>
+          <linkedModels>
+            <Item>bobble_bsk1_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_bsk2_head</modelName>
+          <modShopLabel>BOBBLE_BSK2</modShopLabel>
+          <linkedModels>
+            <Item>bobble_bsk2_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_bsk3_head</modelName>
+          <modShopLabel>BOBBLE_BSK3</modShopLabel>
+          <linkedModels>
+            <Item>bobble_bsk3_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_bsk4_head</modelName>
+          <modShopLabel>BOBBLE_BSK4</modShopLabel>
+          <linkedModels>
+            <Item>bobble_bsk4_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_foot1_head</modelName>
+          <modShopLabel>BOBBLE_FOOT1</modShopLabel>
+          <linkedModels>
+            <Item>bobble_foot1_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_foot2_head</modelName>
+          <modShopLabel>BOBBLE_FOOT2</modShopLabel>
+          <linkedModels>
+            <Item>bobble_foot2_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_foot3_head</modelName>
+          <modShopLabel>BOBBLE_FOOT3</modShopLabel>
+          <linkedModels>
+            <Item>bobble_foot3_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_og1_head</modelName>
+          <modShopLabel>BOBBLE_OG1</modShopLabel>
+          <linkedModels>
+            <Item>bobble_og1_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_og2_head</modelName>
+          <modShopLabel>BOBBLE_OG2</modShopLabel>
+          <linkedModels>
+            <Item>bobble_og2_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_og3_head</modelName>
+          <modShopLabel>BOBBLE_OG3</modShopLabel>
+          <linkedModels>
+            <Item>bobble_og3_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_imp_head</modelName>
+          <modShopLabel>BOBBLE_IMP1</modShopLabel>
+          <linkedModels>
+            <Item>bobble_imp_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_imp2_head</modelName>
+          <modShopLabel>BOBBLE_IMP2</modShopLabel>
+          <linkedModels>
+            <Item>bobble_imp2_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_pogo1_head</modelName>
+          <modShopLabel>BOBBLE_POGO1</modShopLabel>
+          <linkedModels>
+            <Item>bobble_pogo1_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_pogo2_head</modelName>
+          <modShopLabel>BOBBLE_POGO2</modShopLabel>
+          <linkedModels>
+            <Item>bobble_pogo2_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_reap_head</modelName>
+          <modShopLabel>BOBBLE_REAP</modShopLabel>
+          <linkedModels>
+            <Item>bobble_reap_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_brd1_head</modelName>
+          <modShopLabel>BOBBLE_BRD1</modShopLabel>
+          <linkedModels>
+            <Item>bobble_brd1_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_brd2_head</modelName>
+          <modShopLabel>BOBBLE_BRD2</modShopLabel>
+          <linkedModels>
+            <Item>bobble_brd2_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_brd3_head</modelName>
+          <modShopLabel>BOBBLE_BRD3</modShopLabel>
+          <linkedModels>
+            <Item>bobble_brd3_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_slh1_head</modelName>
+          <modShopLabel>BOBBLE_SLH1</modShopLabel>
+          <linkedModels>
+            <Item>bobble_slh1_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_slh2_head</modelName>
+          <modShopLabel>BOBBLE_SLH2</modShopLabel>
+          <linkedModels>
+            <Item>bobble_slh2_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_slh3_head</modelName>
+          <modShopLabel>BOBBLE_SLH3</modShopLabel>
+          <linkedModels>
+            <Item>bobble_slh3_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_zom1_head</modelName>
+          <modShopLabel>BOBBLE_ZOM1</modShopLabel>
+          <linkedModels>
+            <Item>bobble_zom1_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_zom2_head</modelName>
+          <modShopLabel>BOBBLE_ZOM2</modShopLabel>
+          <linkedModels>
+            <Item>bobble_zom2_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_zom3_head</modelName>
+          <modShopLabel>BOBBLE_ZOM3</modShopLabel>
+          <linkedModels>
+            <Item>bobble_zom3_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_gc1_head</modelName>
+          <modShopLabel>BOBBLE_GC1</modShopLabel>
+          <linkedModels>
+            <Item>bobble_gc1_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_gc2_head</modelName>
+          <modShopLabel>BOBBLE_GC2</modShopLabel>
+          <linkedModels>
+            <Item>bobble_gc2_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_gc3_head</modelName>
+          <modShopLabel>BOBBLE_GC3</modShopLabel>
+          <linkedModels>
+            <Item>bobble_gc3_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_frnk1_head</modelName>
+          <modShopLabel>BOBBLE_FRNK1</modShopLabel>
+          <linkedModels>
+            <Item>bobble_frnk1_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_frnk2_head</modelName>
+          <modShopLabel>BOBBLE_FRNK2</modShopLabel>
+          <linkedModels>
+            <Item>bobble_frnk2_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_frnk3_head</modelName>
+          <modShopLabel>BOBBLE_FRNK3</modShopLabel>
+          <linkedModels>
+            <Item>bobble_frnk3_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_mum1_head</modelName>
+          <modShopLabel>BOBBLE_MUM1</modShopLabel>
+          <linkedModels>
+            <Item>bobble_mum1_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_mum2_head</modelName>
+          <modShopLabel>BOBBLE_MUM2</modShopLabel>
+          <linkedModels>
+            <Item>bobble_mum2_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_mum3_head</modelName>
+          <modShopLabel>BOBBLE_MUM3</modShopLabel>
+          <linkedModels>
+            <Item>bobble_mum3_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_wolf1_head</modelName>
+          <modShopLabel>BOBBLE_WOLF1</modShopLabel>
+          <linkedModels>
+            <Item>bobble_wolf1_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_wolf2_head</modelName>
+          <modShopLabel>BOBBLE_WOLF2</modShopLabel>
+          <linkedModels>
+            <Item>bobble_wolf2_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_wolf3_head</modelName>
+          <modShopLabel>BOBBLE_WOLF3</modShopLabel>
+          <linkedModels>
+            <Item>bobble_wolf3_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_vamp1_head</modelName>
+          <modShopLabel>BOBBLE_VAMP1</modShopLabel>
+          <linkedModels>
+            <Item>bobble_vamp1_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_vamp2_head</modelName>
+          <modShopLabel>BOBBLE_VAMP2</modShopLabel>
+          <linkedModels>
+            <Item>bobble_vamp2_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>bobble_vamp3_head</modelName>
+          <modShopLabel>BOBBLE_VAMP3</modShopLabel>
+          <linkedModels>
+            <Item>bobble_vamp3_body</Item>
+          </linkedModels>
+          <turnOffBones />
+          <type>VMT_INTERIOR2</type>
+          <bone>bobble_head</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1." />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+      </visibleMods>
+
+      <linkMods>
+<!-- GENERIC SUPERMOD - BOBBLE MODS -->
+        <Item>
+          <modelName>bobble_mar1_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_mar2_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_mar3_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_bat1_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_bat2_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_bat3_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_bsk1_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_bsk2_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_bsk3_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_bsk4_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_foot1_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_foot2_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_foot3_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_og1_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_og2_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_og3_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_imp_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_imp2_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_pogo1_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_pogo2_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_reap_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_zom1_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_zom2_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_zom3_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_slh1_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_slh2_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_slh3_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_gc1_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_gc2_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_gc3_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_brd1_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_brd2_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_brd3_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_frnk1_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_frnk2_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_frnk3_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_mum1_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_mum2_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_mum3_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_wolf1_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_wolf2_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_wolf3_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_vamp1_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_vamp2_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>bobble_vamp3_body</modelName>
+          <bone>bobble_base</bone>
+          <turnOffExtra value="false" />
+        </Item>
+      </linkMods>
+
+	<statMods>
+        <Item>
+          <identifier/>
+          <modifier value="25"/>
+          <audioApply value="1"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="50"/>
+          <audioApply value="1"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="75"/>
+          <audioApply value="1"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="25"/>
+          <audioApply value="1"/>
+          <weight value="5"/>
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="50"/>
+          <audioApply value="1"/>
+          <weight value="5"/>
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1"/>
+          <weight value="5"/>
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="25"/>
+          <audioApply value="1"/>
+          <weight value="5"/>
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="50"/>
+          <audioApply value="1"/>
+          <weight value="5"/>
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1"/>
+          <weight value="5"/>
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="20"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="40"/>
+          <audioApply value="1"/>
+          <weight value="10"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="60"/>
+          <audioApply value="1"/>
+          <weight value="20"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="80"/>
+          <audioApply value="1"/>
+          <weight value="30"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1"/>
+          <weight value="40"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="5"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="10"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="15"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="20"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489"/>
+          <audioApply value="1"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+  
+	</Item>
+</Kits>
+<Lights>
+    <Item>
+      <id value="1983"/>
+      <indicator>
+        <intensity value="0.375"/>
+        <falloffMax value="2.5"/>
+        <falloffExponent value="8"/>
+        <innerConeAngle value="30"/>
+        <outerConeAngle value="80"/>
+        <emmissiveBoost value="true"/>
+        <color value="0xFFFF8000"/>
+        <textureName/>
+        <mirrorTexture value="true"/>
+      </indicator>
+      <rearIndicatorCorona>
+        <size value="0"/>
+        <size_far value="0"/>
+        <intensity value="0"/>
+        <intensity_far value="0"/>
+        <color value="0x00000000"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0"/>
+        <yRotation value="0"/>
+        <zRotation value="0"/>
+        <zBias value="0.25"/>
+        <pullCoronaIn value="false"/>
+      </rearIndicatorCorona>
+      <frontIndicatorCorona>
+        <size value="0"/>
+        <size_far value="0"/>
+        <intensity value="0"/>
+        <intensity_far value="0"/>
+        <color value="0x00000000"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0"/>
+        <yRotation value="0"/>
+        <zRotation value="0"/>
+        <zBias value="0.25"/>
+        <pullCoronaIn value="false"/>
+      </frontIndicatorCorona>
+      <tailLight>
+        <intensity value="0.25"/>
+        <falloffMax value="4"/>
+        <falloffExponent value="16"/>
+        <innerConeAngle value="45"/>
+        <outerConeAngle value="90"/>
+        <emmissiveBoost value="false"/>
+        <color value="0xFFFF0000"/>
+        <textureName/>
+        <mirrorTexture value="true"/>
+      </tailLight>
+      <tailLightCorona>
+        <size value="0"/>
+        <size_far value="8"/>
+        <intensity value="4"/>
+        <intensity_far value="1"/>
+        <color value="0xFFFF1E05"/>
+        <numCoronas value="2"/>
+        <distBetweenCoronas value="20"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0"/>
+        <yRotation value="0"/>
+        <zRotation value="0"/>
+        <zBias value="0.25"/>
+        <pullCoronaIn value="false"/>
+      </tailLightCorona>
+      <tailLightMiddleCorona>
+        <size value="0"/>
+        <size_far value="8"/>
+        <intensity value="2"/>
+        <intensity_far value="1"/>
+        <color value="0xFFFF1E05"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0"/>
+        <yRotation value="0"/>
+        <zRotation value="0"/>
+        <zBias value="0.25"/>
+        <pullCoronaIn value="false"/>
+      </tailLightMiddleCorona>
+      <headLight>
+        <intensity value="1"/>
+        <falloffMax value="35"/>
+        <falloffExponent value="16"/>
+        <innerConeAngle value="0"/>
+        <outerConeAngle value="60.21"/>
+        <emmissiveBoost value="false"/>
+        <color value="0xFFFFD859"/>
+        <textureName>VehicleLight_car_standard70s</textureName>
+        <mirrorTexture value="false"/>
+      </headLight>
+      <headLightCorona>
+        <size value="0.1"/>
+        <size_far value="10"/>
+        <intensity value="5"/>
+        <intensity_far value="1"/>
+        <color value="0xFFFCBB42"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0"/>
+        <yRotation value="0"/>
+        <zRotation value="0"/>
+        <zBias value="0.25"/>
+        <pullCoronaIn value="false"/>
+      </headLightCorona>
+      <reversingLight>
+        <intensity value="0.5"/>
+        <falloffMax value="4"/>
+        <falloffExponent value="32"/>
+        <innerConeAngle value="45"/>
+        <outerConeAngle value="90"/>
+        <emmissiveBoost value="false"/>
+        <color value="0xFFFFFFFF"/>
+        <textureName/>
+        <mirrorTexture value="true"/>
+      </reversingLight>
+      <reversingLightCorona>
+        <size value="0.8"/>
+        <size_far value="2"/>
+        <intensity value="1.5"/>
+        <intensity_far value="1"/>
+        <color value="0x00F7F7F7"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0"/>
+        <yRotation value="0"/>
+        <zRotation value="0"/>
+        <zBias value="0.25"/>
+        <pullCoronaIn value="false"/>
+      </reversingLightCorona>
+      <name>Diplomat</name>
+    </Item>
+</Lights>
+<Wheels>
+    <Item/> <!-- VWT_SPORT -->
+    <Item> <!-- VWT_MUSCLE -->
+	<Item>
+          <wheelName>whl_police_f</wheelName>
+          <wheelVariation />
+          <modShopLabel>DIPPOL</modShopLabel>
+          <rimRadius value="0.220800"/>
+          <rear value="false"/>
+	</Item>
+	<Item>
+          <wheelName>whl_alloy</wheelName>
+          <wheelVariation />
+          <modShopLabel>DIPAL</modShopLabel>
+          <rimRadius value="0.220800"/>
+          <rear value="false"/>
+	</Item>
+	<Item>
+          <wheelName>whl_alloy2</wheelName>
+          <wheelVariation />
+          <modShopLabel>DIPAL2</modShopLabel>
+          <rimRadius value="0.220800"/>
+          <rear value="false"/>
+	</Item>
+	<Item>
+          <wheelName>whl_steel</wheelName>
+          <wheelVariation />
+          <modShopLabel>STEEL</modShopLabel>
+          <rimRadius value="0.220800"/>
+          <rear value="false"/>
+	</Item>
+    </Item>
+    <Item/> <!-- VWT_LOWRIDER -->
+    <Item/>  <!-- VWT_SUV -->
+    <Item/> <!-- VWT_OFFROAD -->
+    <Item/> <!-- VWT_TUNER -->
+    <Item/> <!-- VWT_BIKE -->
+    <Item/> <!-- VWT_HIEND -->
+   </Wheels>
+</CVehicleModelInfoVarGlobal>
