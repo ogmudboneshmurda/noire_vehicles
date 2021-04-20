@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>999_viper_modkit</kitName>
-      <id value="999" />	 	  
+      <kitName>1253_viper_modkit</kitName>
+      <id value="1253" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>

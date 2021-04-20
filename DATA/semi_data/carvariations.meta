@@ -2,14 +2,14 @@
 
 <CVehicleModelInfoVariation>
   <variationData>
-    <Item>
-      <modelName>m4lb</modelName>
+	<Item>
+      <modelName>semi</modelName>
       <colors>
         <Item>
           <indices content="char_array">
-            112
-            1
-            0 
+            118 
+            8
+            121
             156 
           </indices>
           <liveries>
@@ -21,11 +21,28 @@
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
           </liveries>
-        </Item>
+        </Item>     
       </colors>
       <kits>
-        <Item>1001_m4lb_modkit</Item>
+        <Item>0_default_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -36,7 +53,7 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="1021" />
+      <lightSettings value="2" />
       <sirenSettings value="0" />
     </Item>
   </variationData>

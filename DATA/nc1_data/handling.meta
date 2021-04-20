@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>NC1</handlingName>
 			<fMass value="1300.000000"/>
-			<fInitialDragCoeff value="9.500000"/>
+			<fInitialDragCoeff value="5.500000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="-0.025000" z="0.000000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.400000" z="1.800000"/>

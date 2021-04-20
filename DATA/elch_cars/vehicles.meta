@@ -491,8 +491,8 @@
 			<modelName>firebird</modelName>
 			<txdName>firebird</txdName>
 			<handlingId>FIREBIRD</handlingId>
-			<gameName>DUKES</gameName>
-			<vehicleMakeName>IMPONTE</vehicleMakeName>
+			<gameName>firebird</gameName>
+			<vehicleMakeName>PONTIAC</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>

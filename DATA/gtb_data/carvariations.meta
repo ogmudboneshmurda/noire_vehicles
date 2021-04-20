@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <CVehicleModelInfoVariation>
   <variationData>
-    <Item>
-      <modelName>m4lb</modelName>
+	<Item>
+      <modelName>gtb</modelName>
       <colors>
-        <Item>
+	<Item>
           <indices content="char_array">
-            112
-            1
-            0 
+            0
+            0
+            0
             156 
           </indices>
           <liveries>
-            <Item value="false" />
+            <Item value="true" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -25,7 +24,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>1001_m4lb_modkit</Item>
+        <Item>0_default_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -36,7 +35,7 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="1021" />
+      <lightSettings value="910" />
       <sirenSettings value="0" />
     </Item>
   </variationData>

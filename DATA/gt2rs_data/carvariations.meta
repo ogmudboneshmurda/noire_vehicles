@@ -3,29 +3,24 @@
 <CVehicleModelInfoVariation>
   <variationData>
     <Item>
-      <modelName>m4lb</modelName>
+      <modelName>GT2RS</modelName>
       <colors>
         <Item>
           <indices content="char_array">
-            112
+            1 
+            1 
+            1 
             1
-            0 
-            156 
+            1
+            1 
           </indices>
           <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
             <Item value="false" />
           </liveries>
         </Item>
       </colors>
       <kits>
-        <Item>1001_m4lb_modkit</Item>
+        <Item>0_default_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -36,8 +31,8 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="1021" />
+      <lightSettings value="677" />
       <sirenSettings value="0" />
-    </Item>
+    </Item>      
   </variationData>
 </CVehicleModelInfoVariation>
