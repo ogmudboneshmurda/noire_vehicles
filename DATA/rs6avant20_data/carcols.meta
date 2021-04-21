@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>     
   <Kits>
     <Item>
-      <kitName>210_rs6avant20_modkit</kitName>
-      <id value="210" />	 	  
+      <kitName>888_rs6avant20_modkit</kitName>
+      <id value="888" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
