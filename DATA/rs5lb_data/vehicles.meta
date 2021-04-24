@@ -85,7 +85,7 @@
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_BACK_PLATES</plateType>
 			<dashboardType>VDT_SUPERGT</dashboardType>
-			<vehicleClass>VC_SEDAN</vehicleClass>
+			<vehicleClass>VC_COUPE</vehicleClass>
 			<wheelType>VWT_HIEND</wheelType>
 			<trailers/>
 			<additionalTrailers/>
