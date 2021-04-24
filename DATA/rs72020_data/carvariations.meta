@@ -3,17 +3,17 @@
 <CVehicleModelInfoVariation>
   <variationData>
     <Item>
-      <modelName>m5f90</modelName>
+      <modelName>RS72020</modelName>
       <colors>
         <Item>
           <indices content="char_array">
-            75 
-            75
-            70
-            156 
+            0
+            0
+            0
+            156
           </indices>
           <liveries>
-            <Item value="false" />
+            <Item value="true" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -25,19 +25,32 @@
         </Item>
       </colors>
       <kits>
-        <Item>1405_m5f90_modkit</Item>
-      </kits>
+        <Item>5043_monkeyaddon_modkit</Item>
+	      </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
         <Probabilities>
           <Item>
             <Name>Standard White</Name>
-            <Value value="100" />
+            <Value value="25" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="10" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="15" />
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="45" />
-      <sirenSettings value="0" />
-    </Item>
+      <lightSettings value="0" />        
+	      <sirenSettings value="0" />
+    </Item>         
+
   </variationData>
 </CVehicleModelInfoVariation>

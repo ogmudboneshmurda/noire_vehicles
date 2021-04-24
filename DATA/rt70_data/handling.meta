@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHandlingDataMgr>
+	<HandlingData>
+		<Item type="CHandlingData">
+			<handlingName>RT70</handlingName>
+			<fMass value="1600.0"/>
+			<fInitialDragCoeff value="4"/>
+			<fPercentSubmerged value="85"/>
+			<vecCentreOfMassOffset x="0.0" y="-0.05" z="0.0"/>
+			<vecInertiaMultiplier x="1.0" y="1.2" z="1"/>
+			<fDriveBiasFront value="0.0"/>
+			<nInitialDriveGears value="3"/>
+			<fInitialDriveForce value="0.4"/>
+			<fDriveInertia value="1.0"/>
+			<fClutchChangeRateScaleUpShift value="1.9"/>
+			<fClutchChangeRateScaleDownShift value="1.9"/>
+			<fInitialDriveMaxFlatVel value="200"/>
+			<fBrakeForce value="0.9"/>
+			<fBrakeBiasFront value="0.65"/>
+			<fHandBrakeForce value="0.8"/>
+			<fSteeringLock value="36"/>
+			<fTractionCurveMax value="1.35"/>
+			<fTractionCurveMin value="1.2"/>
+			<fTractionCurveLateral value="16"/>
+			<fTractionSpringDeltaMax value="0.15"/>
+			<fLowSpeedTractionLossMult value="0"/>
+			<fCamberStiffnesss value="0.0"/>
+			<fTractionBiasFront value="0.48"/>
+			<fTractionLossMult value="1"/>
+			<fSuspensionForce value="3"/>
+			<fSuspensionCompDamp value="0.9"/>
+			<fSuspensionReboundDamp value="1.2"/>
+			<fSuspensionUpperLimit value="0.1"/>
+			<fSuspensionLowerLimit value="-0.12"/>
+			<fSuspensionRaise value="0.0"/>
+			<fSuspensionBiasFront value="0.54"/>
+			<fAntiRollBarForce value="0.0"/>
+			<fAntiRollBarBiasFront value="0.0"/>
+			<fRollCentreHeightFront value="0.26"/>
+			<fRollCentreHeightRear value="0.29"/>
+			<fCollisionDamageMult value="1.7"/>
+			<fWeaponDamageMult value="1.0"/>
+			<fDeformationDamageMult value="1.0"/>
+			<fEngineDamageMult value="1.5"/>
+			<fPetrolTankVolume value="65.0"/>
+			<fOilVolume value="5.0"/>
+			<fSeatOffsetDistX value="0.125"/>
+			<fSeatOffsetDistY value="0.0"/>
+			<fSeatOffsetDistZ value="0.1"/>
+			<nMonetaryValue value="40000"/>
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>0</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL"/>
+				<Item type="NULL"/>
+				<Item type="NULL"/>
+			</SubHandlingData>
+		</Item>
+	</HandlingData>
+</CHandlingDataMgr>

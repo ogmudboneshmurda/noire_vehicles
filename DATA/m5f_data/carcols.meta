@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>     
   <Kits>
     <Item>
-      <kitName>135_m5f90_modkit</kitName>
-      <id value="135" />
+      <kitName>1405_m5f90_modkit</kitName>
+      <id value="1405" />
       <kitType>MKT_SPORT</kitType>
       <visibleMods />
       <linkMods />

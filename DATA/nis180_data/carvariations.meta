@@ -2,15 +2,17 @@
 
 <CVehicleModelInfoVariation>
   <variationData>
-    <Item>
-      <modelName>m5f90</modelName>
+     <Item>
+      <modelName>nis180</modelName>
       <colors>
         <Item>
           <indices content="char_array">
-            75 
-            75
-            70
-            156 
+            112 
+            112  
+            112
+            112
+			147
+			112
           </indices>
           <liveries>
             <Item value="false" />
@@ -25,18 +27,22 @@
         </Item>
       </colors>
       <kits>
-        <Item>1405_m5f90_modkit</Item>
+        <Item>1081_nis180_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
         <Probabilities>
           <Item>
             <Name>Standard White</Name>
-            <Value value="100" />
+            <Value value="25" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="45" />
+      <lightSettings value="1696" />
       <sirenSettings value="0" />
     </Item>
   </variationData>
