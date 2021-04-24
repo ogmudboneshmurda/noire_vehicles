@@ -5,8 +5,7 @@
 			<handlingName>f4090</handlingName>
 			<!-- 4.1s 324kmh -->
 			<fMass value="1100"/>
-			<fInitialDragCoeff value="3.7"/>
-			<fDownforceModifier value="1.6"/>
+			<fInitialDragCoeff value="3.7"/>			
 			<fPercentSubmerged value="85"/>
 			<vecCentreOfMassOffset x="0" y="-0.05" z="-0.1"/>
 			<vecInertiaMultiplier x="1.1" y="1.1" z="1.4"/>
@@ -17,7 +16,7 @@
 			<fClutchChangeRateScaleUpShift value="2"/>
 			<fClutchChangeRateScaleDownShift value="2"/>
 			<fInitialDriveMaxFlatVel value="240"/>
-			<fBrakeForce value="0.21"/>
+			<fBrakeForce value="1.0"/>
 			<fBrakeBiasFront value="0.65"/>
 			<fHandBrakeForce value="0.8"/>
 			<fSteeringLock value="38"/>
