@@ -2,19 +2,19 @@
 <CHandlingDataMgr>
 	<HandlingData>
 		<Item type="CHandlingData">
-			<handlingName>c8</handlingName>
-			<fMass value="1526.792000"/>
-			<fInitialDragCoeff value="3.200000"/>
+			<handlingName>turs21</handlingName>
+			<fMass value="1800.000000"/>
+			<fInitialDragCoeff value="5.100000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.300000" z="1.500000"/>
 			<fDriveBiasFront value="0.200000"/>
-			<nInitialDriveGears value="7"/>
-			<fInitialDriveForce value="0.3400000"/>
+			<nInitialDriveGears value="6"/>
+			<fInitialDriveForce value="0.3000500"/>
 			<fDriveInertia value="1.000000"/>
-			<fClutchChangeRateScaleUpShift value="1.50000"/>
-			<fClutchChangeRateScaleDownShift value="1.500000"/>
-			<fInitialDriveMaxFlatVel value="210.880000"/>
+			<fClutchChangeRateScaleUpShift value="4.50000"/>
+			<fClutchChangeRateScaleDownShift value="4.500000"/>
+			<fInitialDriveMaxFlatVel value="210.200000"/>
 			<fBrakeForce value="1.100000"/>
 			<fBrakeBiasFront value="0.450000"/>
 			<fHandBrakeForce value="0.700000"/>
@@ -38,10 +38,10 @@
 			<fAntiRollBarBiasFront value="0.600000"/>
 			<fRollCentreHeightFront value="0.410000"/>
 			<fRollCentreHeightRear value="0.410000"/>
-			<fCollisionDamageMult value="1.000000"/>
+			<fCollisionDamageMult value="0.700000"/>
 			<fWeaponDamageMult value="1.000000"/>
-			<fDeformationDamageMult value="1.000000"/>
-			<fEngineDamageMult value="1.000000"/>
+			<fDeformationDamageMult value="0.700000"/>
+			<fEngineDamageMult value="1.500000"/>
 			<fPetrolTankVolume value="65.000000"/>
 			<fOilVolume value="5.000000"/>
 			<fSeatOffsetDistX value="0.000000"/>
@@ -52,6 +52,7 @@
 			<strHandlingFlags>0</strHandlingFlags>
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>AVERAGE</AIHandling>
+			<fPopUpLightRotation value="-68.00000"/>
 			<SubHandlingData>
 				<Item type="CCarHandlingData">
 					<fBackEndPopUpCarImpulseMult value="0.075000"/>

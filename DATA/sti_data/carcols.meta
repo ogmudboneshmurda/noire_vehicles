@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>931_sti_modkit</kitName>
-      <id value="931" />	 	  
+      <kitName>937_sti_modkit</kitName>
+      <id value="937" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>

@@ -15,7 +15,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>exemplar</audioNameHash>
+			<audioNameHash>vstr</audioNameHash>
 			<layout>LAYOUT_STD_LOWROOF</layout>
 			<coverBoundOffsets>EXEMPLAR_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -91,7 +91,7 @@
 			<frequency value="15"/>
 			<swankness>SWANKNESS_4</swankness>
 			<maxNum value="5"/>
-			<flags>FLAG_SPORTS FLAG_EXTRAS_REQUIRE FLAG_SPAWN_ON_TRAILER FLAG_PARKING_SENSORS FLAG_RICH_CAR FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_RECESSED_TAILLIGHT_CORONAS  FLAG_HAS_LIVERY</flags>
+			<flags>FLAG_SPORTS FLAG_EXTRAS_REQUIRE FLAG_SPAWN_ON_TRAILER FLAG_PARKING_SENSORS FLAG_RICH_CAR FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_RECESSED_TAILLIGHT_CORONAS FLAG_HAS_LIVERY</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 			<dashboardType>VDT_RACE</dashboardType>

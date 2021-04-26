@@ -91,7 +91,7 @@
 			<frequency value="100"/>
 			<swankness>SWANKNESS_1</swankness>
 			<maxNum value="999"/>
-			<flags>FLAG_AVERAGE_CAR FLAG_HAS_INTERIOR_EXTRAS FLAG_HAS_NITROUS_MOD</flags>
+			<flags>FLAG_AVERAGE_CAR FLAG_HAS_INTERIOR_EXTRAS</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 			<dashboardType>VDT_GENTAXI</dashboardType>
