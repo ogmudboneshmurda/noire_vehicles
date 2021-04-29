@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
    <Item>
-      <kitName>1010_r820_modkit</kitName>
-      <id value="1010" />	 	  
+      <kitName>1250_r820_modkit</kitName>
+      <id value="1250" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 	  <Item>

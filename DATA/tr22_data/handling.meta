@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>TR22</handlingName>
 			<fMass value="1800.000000"/>
-			<fInitialDragCoeff value="5.000000"/>
+			<fInitialDragCoeff value="3.500000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.050000" z="-0.0000000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.500000" z="1.400000"/>

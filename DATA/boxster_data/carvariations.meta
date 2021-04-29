@@ -3,16 +3,16 @@
 <CVehicleModelInfoVariation>
   <variationData>
     <Item>
-      <modelName>r820</modelName>
+      <modelName>boxster</modelName>
       <colors>
-        <Item>
+	<Item>
           <indices content="char_array">
-            3 
-            28 
-            156 
-            04
-						111
-						00
+            112 
+            35
+            134
+            35
+						35
+						35 
           </indices>
           <liveries>
             <Item value="true" />
@@ -27,7 +27,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>1250_r820_modkit</Item>
+        <Item>718_boxster_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -38,9 +38,8 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="1010" />
+      <lightSettings value="718" />
       <sirenSettings value="0" />
     </Item>
-
-  </variationData>
+</variationData>
 </CVehicleModelInfoVariation>
