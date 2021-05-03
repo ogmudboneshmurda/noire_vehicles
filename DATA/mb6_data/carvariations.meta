@@ -2,20 +2,20 @@
 
 <CVehicleModelInfoVariation>
   <variationData>
-    <Item>
-      <modelName>boxster</modelName>
+  <Item>
+      <modelName>mb6</modelName>
       <colors>
-	<Item>
+        <Item>
           <indices content="char_array">
-            112 
-            35
-            134
-            35
-						35
-						35 
+            0
+            2
+            122
+            156 
+	    41
+	    106
           </indices>
           <liveries>
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -27,7 +27,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>718_boxster_modkit</Item>
+        <Item>0_default_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -38,8 +38,8 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="718" />
+      <lightSettings value="20" />
       <sirenSettings value="0" />
-    </Item>
-</variationData>
+    </Item>	
+  </variationData>
 </CVehicleModelInfoVariation>
