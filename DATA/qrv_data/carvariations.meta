@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+
+  <Item>
+<modelName>qrv</modelName>
+<colors>
+<Item>
+<indices content="char_array">
+134
+134
+134
+134
+134
+134
+</indices>
+<liveries>
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+<Item value="false" />
+</liveries>
+</Item>
+</colors>
+<kits>
+<Item>0_default_modkit</Item>
+</kits>
+<windowsWithExposedEdges />
+<plateProbabilities>
+<Probabilities>
+<Item>
+<Name>Police guv plate</Name>
+<Value value="100" />
+</Item>
+</Probabilities>
+</plateProbabilities>
+<lightSettings value="151" />
+<sirenSettings value="21" />
+</Item>	
+  </variationData>
+</CVehicleModelInfoVariation>

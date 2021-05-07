@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHandlingDataMgr>
+	<HandlingData>
+		<Item type="CHandlingData">
+			<handlingName>slingshot</handlingName>
+			<fMass value="500.000000"/>
+			<fInitialDragCoeff value="11.000000"/>
+			<fPercentSubmerged value="85.000000"/>
+			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<vecInertiaMultiplier x="1.100000" y="1.100000" z="0.800000"/>
+			<fDriveBiasFront value="0.000000"/>
+			<nInitialDriveGears value="6"/>
+			<fInitialDriveForce value="0.295000"/>
+			<fDriveInertia value="1.000000"/>
+			<fClutchChangeRateScaleUpShift value="2.300000"/>
+			<fClutchChangeRateScaleDownShift value="2.300000"/>
+			<fInitialDriveMaxFlatVel value="140.000000"/>
+			<fBrakeForce value="1.200000"/>
+			<fBrakeBiasFront value="0.650000"/>
+			<fHandBrakeForce value="0.300000"/>
+			<fSteeringLock value="35.000000"/>
+			<fTractionCurveMax value="2.600000"/>
+			<fTractionCurveMin value="2.400000"/>
+			<fTractionCurveLateral value="20.500000"/>
+			<fTractionSpringDeltaMax value="0.090000"/>
+			<fLowSpeedTractionLossMult value="1.200000"/>
+			<fCamberStiffnesss value="0.000000"/>
+			<fTractionBiasFront value="0.465000"/>
+			<fTractionLossMult value="0.000000"/>
+			<fSuspensionForce value="4.00000"/>
+			<fSuspensionCompDamp value="2.200000"/>
+			<fSuspensionReboundDamp value="4.200000"/>
+			<fSuspensionUpperLimit value="0.170000"/>
+			<fSuspensionLowerLimit value="-0.180000"/>
+			<fSuspensionRaise value="0.000000"/>
+			<fSuspensionBiasFront value="0.560000"/>
+			<fAntiRollBarForce value="0.50000"/>
+			<fAntiRollBarBiasFront value="1.00000"/>
+			<fRollCentreHeightFront value="0.150000"/>
+			<fRollCentreHeightRear value="0.200000"/>
+			<fCollisionDamageMult value="0.500000"/>
+			<fWeaponDamageMult value="1.000000"/>
+			<fDeformationDamageMult value="0.800000"/>
+			<fEngineDamageMult value="1.500000"/>
+			<fPetrolTankVolume value="10.000000"/>
+			<fOilVolume value="2.500000"/>
+			<fSeatOffsetDistX value="0.000000"/>
+			<fSeatOffsetDistY value="0.000000"/>
+			<fSeatOffsetDistZ value="0.200000"/>
+			<nMonetaryValue value="12000"/>
+			<strModelFlags>040010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>0</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="CVehicleWeaponHandlingData">
+					<uWeaponHash>
+						<Item/>
+						<Item/>
+						<Item/>
+					</uWeaponHash>
+					<WeaponSeats content="int_array">
+						0
+						0
+						0
+					</WeaponSeats>
+					<fTurretSpeed content="float_array">
+						0.000000
+						0.000000
+					</fTurretSpeed>
+					<fTurretPitchMin content="float_array">
+						0.000000
+						0.000000
+					</fTurretPitchMin>
+					<fTurretPitchMax content="float_array">
+						0.000000
+						0.000000
+					</fTurretPitchMax>
+					<fTurretCamPitchMin content="float_array">
+						-0.500000
+						0.000000
+					</fTurretCamPitchMin>
+					<fTurretCamPitchMax content="float_array">
+						0.000000
+						0.000000
+					</fTurretCamPitchMax>
+					<fBulletVelocityForGravity content="float_array">
+						0.000000
+						0.000000
+					</fBulletVelocityForGravity>
+					<fTurretPitchForwardMin content="float_array">
+						0.000000
+						0.000000
+					</fTurretPitchForwardMin>
+					<fUvAnimationMult value="0.000000"/>
+					<fMiscGadgetVar value="0.000000"/>
+					<fWheelImpactOffset value="0.040000"/>
+				</Item>
+				<Item type="NULL"/>
+				<Item type="NULL"/>
+			</SubHandlingData>
+		</Item>
+	</HandlingData>
+</CHandlingDataMgr>

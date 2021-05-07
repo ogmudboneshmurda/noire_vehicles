@@ -4,42 +4,42 @@
 	<residentAnims/>
 	<InitDatas>
 		<Item>
-			<modelName>silvia3</modelName>
-			<txdName>silvia3</txdName>
-			<handlingId>silvia3</handlingId>
-			<gameName>silvia3</gameName>
-			<vehicleMakeName>Nissan</vehicleMakeName>
+			<modelName>valkyrietp</modelName>
+			<txdName>valkyrietp</txdName>
+			<handlingId>valkyrietp</handlingId>
+			<gameName>valkyrietp</gameName>
+			<vehicleMakeName>Aston Martin</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>TURISMOR</audioNameHash>
-			<layout>LAYOUT_LOW</layout>
-			<coverBoundOffsets>COQUETTE_COVER_OFFSET_INFO</coverBoundOffsets>
+			<audioNameHash>TYRUS</audioNameHash>
+			<layout>LAYOUT_LOW_RESTRICTED</layout>
+			<coverBoundOffsets>VACCA_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
 			<cameraName>DEFAULT_FOLLOW_VEHICLE_CAMERA</cameraName>
 			<aimCameraName>DEFAULT_THIRD_PERSON_VEHICLE_AIM_CAMERA</aimCameraName>
-			<bonnetCameraName>VEHICLE_BONNET_CAMERA_MID</bonnetCameraName>
+			<bonnetCameraName>VEHICLE_BONNET_CAMERA_MID_HIGH</bonnetCameraName>
 			<povCameraName>DEFAULT_POV_CAMERA</povCameraName>
-			<FirstPersonDriveByIKOffset x="0.000000" y="-0.055000" z="-0.020000"/>
-			<FirstPersonDriveByUnarmedIKOffset x="-0.015000" y="-0.075000" z="0.000000"/>
-			<FirstPersonProjectileDriveByIKOffset x="0.015000" y="-0.140000" z="-0.030000"/>
-			<FirstPersonProjectileDriveByPassengerIKOffset x="-0.170000" y="-0.145000" z="-0.045000"/>
+			<FirstPersonDriveByIKOffset x="0.000000" y="-0.055000" z="0.010000"/>
+			<FirstPersonDriveByUnarmedIKOffset x="0.000000" y="-0.100000" z="0.000000"/>
+			<FirstPersonProjectileDriveByIKOffset x="0.035000" y="-0.120000" z="-0.020000"/>
+			<FirstPersonProjectileDriveByPassengerIKOffset x="-0.120000" y="-0.120000" z="-0.020000"/>
 			<FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="0.000000"/>
 			<FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="0.000000"/>
 			<FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000"/>
-			<FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.055000" z="0.000000"/>
+			<FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.055000" z="0.010000"/>
 			<FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000"/>
 			<FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000"/>
-			<FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.025000" y="-0.145000" z="0.000000"/>
-			<FirstPersonMobilePhoneOffset x="0.160000" y="0.130000" z="0.550000"/>
-			<FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.063000" z="0.443000"/>
-			<PovCameraOffset x="0.000000" y="-0.300000" z="0.665000"/>
-			<PovCameraVerticalAdjustmentForRollCage value="0.000000"/>
-			<PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="-0.100000" z="0.000000"/>
+			<FirstPersonMobilePhoneOffset x="0.121000" y="0.206000" z="0.535000"/>
+			<FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.153000" z="0.433000"/>
+			<PovCameraOffset x="0.000000" y="-0.200000" z="0.645000"/>
+			<PovCameraVerticalAdjustmentForRollCage value="-0.020000"/>
+			<PovPassengerCameraOffset x="0.000000" y="-0.070000" z="0.000000"/>
 			<PovRearPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000"/>
 			<vfxInfoName>VFXVEHICLEINFO_CAR_GENERIC</vfxInfoName>
 			<shouldUseCinematicViewMode value="true"/>
@@ -49,8 +49,8 @@
 			<AllowJoyriding value="true"/>
 			<AllowSundayDriving value="true"/>
 			<AllowBodyColorMapping value="true"/>
-			<wheelScale value="0.276500"/>
-			<wheelScaleRear value="0.276500"/>
+			<wheelScale value="0.273700"/>
+			<wheelScaleRear value="0.273700"/>
 			<dirtLevelMin value="0.000000"/>
 			<dirtLevelMax value="0.300000"/>
 			<envEffScaleMin value="0.000000"/>
@@ -63,29 +63,29 @@
 			<steerWheelMult value="1.000000"/>
 			<HDTextureDist value="5.000000"/>
 			<lodDistances content="float_array">
-				10.000000
-				25.000000
+				15.000000
+				30.000000
 				60.000000
 				120.000000
 				500.000000
 				500.000000
 			</lodDistances>
-			<minSeatHeight value="0.79"/>
+			<minSeatHeight value="0.798"/>
 			<identicalModelSpawnDistance value="20"/>
-			<maxNumOfSameColor value="10"/>
+			<maxNumOfSameColor value="1"/>
 			<defaultBodyHealth value="1000.000000"/>
 			<pretendOccupantsScale value="1.000000"/>
 			<visibleSpawnDistScale value="1.000000"/>
 			<trackerPathWidth value="2.000000"/>
 			<weaponForceMult value="1.000000"/>
-			<frequency value="50"/>
+			<frequency value="30"/>
 			<swankness>SWANKNESS_5</swankness>
-			<maxNum value="5"/>
-			<flags>FLAG_SPORTS FLAG_RICH_CAR FLAG_PEDS_CAN_STAND_ON_TOP FLAG_DISABLE_BUSTING FLAG_DISABLE_THROUGH_WINDSCREEN FLAG_RECESSED_TAILLIGHT_CORONAS FLAG_HAS_INTERIOR_EXTRAS FLAG_HAS_LIVERY</flags>
+			<maxNum value="4"/>
+			<flags>FLAG_SPORTS FLAG_RICH_CAR FLAG_AVERAGE_CAR FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_COUNT_AS_FACEBOOK_DRIVEN FLAG_HAS_INTERIOR_EXTRAS</flags>
 			<type>VEHICLE_TYPE_CAR</type>
-			<plateType>VPT_BACK_PLATES</plateType>
-			<dashboardType>VDT_BANSHEE</dashboardType>
-			<vehicleClass>VC_SPORT</vehicleClass>
+			<plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
+			<dashboardType>VDT_RACE</dashboardType>
+			<vehicleClass>VC_SUPER</vehicleClass>
 			<wheelType>VWT_HIEND</wheelType>
 			<trailers/>
 			<additionalTrailers/>
@@ -108,9 +108,11 @@
 			<buoyancySphereSizeScale value="1.000000"/>
 			<pOverrideRagdollThreshold type="NULL"/>
 			<firstPersonDrivebyData>
-				<Item>LOW_ELEGY2_FRONT_LEFT</Item>
-				<Item>LOW_ELEGY2_FRONT_RIGHT</Item>
+				<Item>LOW_VACCA_FRONT_LEFT</Item>
+				<Item>LOW_VACCA_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
 	</InitDatas>
+	<txdRelationships>
+	</txdRelationships>
 </CVehicleModelInfo__InitDataList>
