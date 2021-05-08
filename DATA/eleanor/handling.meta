@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>eleanor</handlingName>
 			<fMass value="1528.000000"/>
-			<fInitialDragCoeff value="6.0000000"/>
+			<fInitialDragCoeff value="4.5000000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000"/>
 			<vecInertiaMultiplier x="1.100000" y="1.200000" z="1.200000"/>
@@ -14,8 +14,8 @@
 			<fDriveInertia value="1.000000"/>
 			<fClutchChangeRateScaleUpShift value="3.00000"/>
 			<fClutchChangeRateScaleDownShift value="3.00000"/>
-			<fInitialDriveMaxFlatVel value="154.000000"/>
-			<fBrakeForce value="0.700000"/>
+			<fInitialDriveMaxFlatVel value="182.920000"/>
+			<fBrakeForce value="1.000000"/>
 			<fBrakeBiasFront value="0.50000"/>
 			<fHandBrakeForce value="0.350000"/>
 			<fSteeringLock value="35.000000"/>
