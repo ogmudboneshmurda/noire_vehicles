@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>
   <Kits>
 	<Item>
-      <kitName>629_bronco_modkit</kitName>
-      <id value="629" />	 	  
+      <kitName>913_bronco_modkit</kitName>
+      <id value="913" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 		<Item>
