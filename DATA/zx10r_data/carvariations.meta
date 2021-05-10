@@ -2,19 +2,15 @@
 
 <CVehicleModelInfoVariation>
   <variationData>
-
-    <Item>
-      <modelName>sc18</modelName>
+     <Item>
+      <modelName>zx10r</modelName>
       <colors>
-	<Item>
+        <Item>
           <indices content="char_array">
-            5
-            27
             0
-            64
-             55
-             42 
-            39
+            0
+            0
+            0 
           </indices>
           <liveries>
             <Item value="true" />
@@ -29,19 +25,19 @@
         </Item>
       </colors>
       <kits>
-        <Item>1761_sc18_modkit</Item>
+        <Item>696_zx10r_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
         <Probabilities>
           <Item>
             <Name>Standard White</Name>
-            <Value value="100" />
+            <Value value="25" />
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="761" />
+      <lightSettings value="1" />
       <sirenSettings value="0" />
     </Item>
-</variationData>
+  </variationData>
 </CVehicleModelInfoVariation>
