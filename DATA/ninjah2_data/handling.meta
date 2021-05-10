@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>SPCJ</handlingName>
 			<fMass value="250.0"/>
-			<fInitialDragCoeff value="5.6"/>
+			<fInitialDragCoeff value="2.6"/>
 			<fPercentSubmerged value="95.0"/>
 			<vecCentreOfMassOffset x="0.0" y="-0.01" z="-0.15"/>
 			<vecInertiaMultiplier x="1.2" y="1.5" z="2.1"/>
