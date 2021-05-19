@@ -4,26 +4,26 @@
 		<Item type="CHandlingData">
 			<handlingName>m5f90</handlingName>
 			<fMass value="1982.000000"/>
-			<fInitialDragCoeff value="5.2500000"/>
+			<fInitialDragCoeff value="3.2500000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000"/>
 			<vecInertiaMultiplier x="1.200000" y="1.300000" z="1.800000"/>
 			<fDriveBiasFront value="0.000000"/>
 			<nInitialDriveGears value="6"/>
-			<fInitialDriveForce value="0.35000"/>
-			<fDriveInertia value="0.800000"/>
+			<fInitialDriveForce value="0.30000"/>
+			<fDriveInertia value="1.000000"/>
 			<fClutchChangeRateScaleUpShift value="5.000000"/>
 			<fClutchChangeRateScaleDownShift value="5.000000"/>
-			<fInitialDriveMaxFlatVel value="290.000000"/>
-			<fBrakeForce value="10.000000"/>
+			<fInitialDriveMaxFlatVel value="189.000000"/>
+			<fBrakeForce value="1.500000"/>
 			<fBrakeBiasFront value="0.425000"/>
 			<fHandBrakeForce value="0.600000"/>
-			<fSteeringLock value="40.000000"/>
+			<fSteeringLock value="42.000000"/>
 			<fTractionCurveMax value="2.550000"/>
 			<fTractionCurveMin value="2.250000"/>
 			<fTractionCurveLateral value="20.500000"/>
 			<fTractionSpringDeltaMax value="0.150000"/>
-			<fLowSpeedTractionLossMult value="1.050000"/>
+			<fLowSpeedTractionLossMult value="0.750000"/>
 			<fCamberStiffnesss value="0.000000"/>
 			<fTractionBiasFront value="0.490000"/>
 			<fTractionLossMult value="1.000000"/>

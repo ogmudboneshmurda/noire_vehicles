@@ -8685,8 +8685,8 @@
 			<liveryNames />
 		</Item>
 		<Item>
-			<kitName>1021_focusrs_modkit</kitName>
-			<id value="1021" />
+			<kitName>1221_focusrs_modkit</kitName>
+			<id value="1221" />
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
 				<Item>
