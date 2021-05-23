@@ -65,23 +65,23 @@
 		<Item type="CHandlingData">
 			<handlingName>CHPchar</handlingName>
 			<fMass value="1910.000000"/>
-			<fInitialDragCoeff value="3.500000"/>
+			<fInitialDragCoeff value="3.250000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.050000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000"/>
 			<fDriveBiasFront value="0.000000"/>
 			<nInitialDriveGears value="6"/>
 			<fInitialDriveForce value="0.350000"/>
-			<fDriveInertia value="1.000000"/>
-			<fClutchChangeRateScaleUpShift value="3.100000"/>
-			<fClutchChangeRateScaleDownShift value="3.100000"/>
-			<fInitialDriveMaxFlatVel value="195.000000"/>
-			<fBrakeForce value="1.500000"/>
+			<fDriveInertia value="1.500000"/>
+			<fClutchChangeRateScaleUpShift value="9.100000"/>
+			<fClutchChangeRateScaleDownShift value="9.100000"/>
+			<fInitialDriveMaxFlatVel value="200.000000"/>
+			<fBrakeForce value="2.000000"/>
 			<fBrakeBiasFront value="0.425000"/>
 			<fHandBrakeForce value="0.600000"/>
-			<fSteeringLock value="44.000000"/>
-			<fTractionCurveMax value="2.570000"/>
-			<fTractionCurveMin value="2.490000"/>
+			<fSteeringLock value="44.500000"/>
+			<fTractionCurveMax value="2.670000"/>
+			<fTractionCurveMin value="2.590000"/>
 			<fTractionCurveLateral value="22.500000"/>
 			<fTractionSpringDeltaMax value="0.150000"/>
 			<fLowSpeedTractionLossMult value="0.600000"/>
@@ -93,7 +93,7 @@
 			<fSuspensionReboundDamp value="2.000000"/>
 			<fSuspensionUpperLimit value="0.090000"/>
 			<fSuspensionLowerLimit value="-0.120000"/>
-			<fSuspensionRaise value="0.000000"/>
+			<fSuspensionRaise value="-0.020000"/>
 			<fSuspensionBiasFront value="0.500000"/>
 			<fAntiRollBarForce value="1.000000"/>
 			<fAntiRollBarBiasFront value="0.610000"/>
