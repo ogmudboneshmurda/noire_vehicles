@@ -94,7 +94,7 @@
 			<flags>FLAG_SPAWN_ON_TRAILER FLAG_AVERAGE_CAR FLAG_POOR_CAR FLAG_RECESSED_TAILLIGHT_CORONAS</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
-			<vehicleClass>VC_SEDAN</vehicleClass>
+			<vehicleClass>VC_SUV</vehicleClass>
 			<wheelType>VWT_SPORT</wheelType>
 			<trailers/>
 			<additionalTrailers/>

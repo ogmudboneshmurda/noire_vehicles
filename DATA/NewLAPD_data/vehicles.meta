@@ -6,7 +6,7 @@
 		<Item>
 			<modelName>11pdcvpi</modelName>
 			<txdName>11pdcvpi</txdName>
-			<handlingId>CHPcvpi</handlingId>
+			<handlingId>pdcvpi</handlingId>
 			<gameName>11pdcvpi</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
@@ -129,7 +129,7 @@
 		<Item>
 			<modelName>14pdcharger</modelName>
 			<txdName>14pdcharger</txdName>
-			<handlingId>FBI</handlingId>
+			<handlingId>CHPchar</handlingId>
 			<gameName>14pdcharger</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>

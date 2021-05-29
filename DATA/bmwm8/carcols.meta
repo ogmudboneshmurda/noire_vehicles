@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>761_bmwm8_modkit</kitName>
-      <id value="761" />   
+      <kitName>1762_bmwm8_modkit</kitName>
+      <id value="1762" />   
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods> 
       </visibleMods>
