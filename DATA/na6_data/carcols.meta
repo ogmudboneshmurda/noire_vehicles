@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>     
   <Kits>
     <Item>
-      <kitName>1012_na6_modkit</kitName>
-      <id value="1012" />	 	  
+      <kitName>1296_na6_modkit</kitName>
+      <id value="1296" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
          <Item>
