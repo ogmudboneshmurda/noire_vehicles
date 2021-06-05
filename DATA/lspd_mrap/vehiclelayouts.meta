@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleMetadataMgr> 
+  <VehicleLayoutInfos>
+    <Item type="CVehicleLayoutInfo">
+      <Name>LAYOUT_mraplspd</Name>
+      <Seats>
+        <!-- Driver Seat -->
+		<Item>
+          <SeatInfo ref="SEAT_STANDARD_FRONT_LEFT" />
+          <SeatAnimInfo ref="SEAT_ANIM_TRUCK_FRONT_LEFT" />
+        </Item>
+		<!-- Front Passenger -->
+        <Item>
+          <SeatInfo ref="SEAT_STANDARD_FRONT_RIGHT" />
+          <SeatAnimInfo ref="SEAT_ANIM_TRUCK_FRONT_RIGHT" />
+        </Item>
+		<!-- Rear Left-->
+        <Item>
+          <SeatInfo ref="SEAT_VAN_ARMORED_REAR_LEFT" />
+          <SeatAnimInfo ref="SEAT_ANIM_VAN_REAR_LEFT" />
+        </Item>
+		<!-- Rear Right-->
+        <Item>
+          <SeatInfo ref="SEAT_VAN_ARMORED_REAR_RIGHT" />
+          <SeatAnimInfo ref="SEAT_ANIM_VAN_REAR_RIGHT" />
+        </Item>
+		<!-- Rear Left 2-->
+        <Item>
+          <SeatInfo ref="SEAT_VAN_EXTRA_LEFT_2" />
+          <SeatAnimInfo ref="SEAT_ANIM_VAN_REAR_LEFT" />
+        </Item>
+		<!-- Rear Right 2-->
+        <Item>
+          <SeatInfo ref="SEAT_VAN_EXTRA_RIGHT_2" />
+          <SeatAnimInfo ref="SEAT_ANIM_VAN_REAR_RIGHT" />
+        </Item>
+		<!-- Turret -->
+		<Item>
+          <SeatInfo ref="SEAT_VAN_ARMORED_REAR_TURRET" />
+          <SeatAnimInfo ref="SEAT_ANIM_VAN_ARMORED_TURRET" />
+        </Item>
+	  </Seats>
+      <EntryPoints>
+        <!-- Driver Seat -->
+		<Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_FRONT_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_TRUCK_FRONT_LEFT" />
+        </Item>
+		<!-- Front Passenger -->
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_STANDARD_FRONT_RIGHT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_TRUCK_FRONT_RIGHT" />
+        </Item>
+		<!-- Rear Left-->
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_VAN_ARMORED_REAR_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_VAN_ARMORED_REAR_LEFT" />
+        </Item>
+		<!-- Rear Right-->
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_VAN_ARMORED_REAR_RIGHT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_VAN_ARMORED_REAR_RIGHT" />
+        </Item>
+		<!-- Rear Left 2-->
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_VAN_EXTRA_LEFT_2" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_VAN_ARMORED_REAR_LEFT" />
+        </Item>
+		<!-- Rear Right 2-->
+        <Item>
+          <EntryPointInfo ref="ENTRY_POINT_VAN_EXTRA_RIGHT_2" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_VAN_ARMORED_REAR_RIGHT" />
+        </Item>
+		<!-- Turret -->
+		<Item>
+          <EntryPointInfo ref="ENTRY_POINT_VAN_ARMORED_TURRET_TOP_LEFT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_VAN_ARMORED_TURRET_TOP_LEFT" />
+        </Item>
+		<Item>
+          <EntryPointInfo ref="ENTRY_POINT_VAN_ARMORED_TURRET_TOP_RIGHT" />
+          <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_VAN_ARMORED_TURRET_TOP_RIGHT" />
+        </Item>
+      </EntryPoints>
+      <LayoutFlags>StreamAnims UseLeanSteerAnims UseFinerAlignTolerance UseLowerDoorBlockTest</LayoutFlags>
+      <BicycleInfo ref="NULL" />
+      <HandsUpClipSetId>busted_vehicle_van</HandsUpClipSetId>
+      <SteeringWheelOffset x="0.000000" y="0.350000" z="0.320000" />
+	  <MaxXAcceleration value="4.00000" />
+	  <BodyLeanXApproachSpeed value="5.00000" />
+	  <BodyLeanXSmallDelta value="0.30000" />
+	  <FirstPersonAdditiveIdleClipSets>
+        <Item>clipset@veh@van@ds@idle_a</Item>
+		<Item>clipset@veh@van@ds@idle_b</Item>
+		<Item>clipset@veh@van@ds@idle_c</Item>
+		<Item>clipset@veh@van@ds@idle_d</Item>
+		<Item>clipset@veh@van@ds@idle_e</Item>
+	  </FirstPersonAdditiveIdleClipSets>
+	  <FirstPersonRoadRageClipSets>
+        <Item>clipset@veh@van@ds@hit_wheel@idle_a</Item>
+		<Item>clipset@veh@van@ds@hit_wheel@idle_b</Item>
+		<Item>clipset@veh@van@ds@hit_wheel@idle_c</Item>
+	  </FirstPersonRoadRageClipSets>
+    </Item>
+  </VehicleLayoutInfos>  
+</CVehicleMetadataMgr>

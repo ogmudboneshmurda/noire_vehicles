@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- MODDING DLC Pack by Albo1125 and Festivalmatt-->
+
 <CVehicleModelInfoVariation>
-  <variationData>
-	<!-- Add custom entries here (check Readme), between <variationData> and </variationData>-->
-		<Item>
-      <modelName>18x4</modelName>
+  <variationData> 
+
+
+    <Item>
+      <modelName>2015polstang</modelName>
       <colors>
         <Item>
           <indices content="char_array">
             134 
             134 
-            156  
-            156 
+            0 
+            0
           </indices>
           <liveries>
             <Item value="true" />
@@ -28,8 +29,8 @@
           <indices content="char_array">
             134 
             134 
-            156  
-            156 
+            0 
+            0
           </indices>
           <liveries>
             <Item value="false" />
@@ -46,26 +47,8 @@
           <indices content="char_array">
             134 
             134 
-            156  
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="true" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            134 
-            134 
-            156  
-            156 
+            0 
+            0
           </indices>
           <liveries>
             <Item value="false" />
@@ -80,10 +63,10 @@
         </Item>
         <Item>
           <indices content="char_array">
-            134
-            134
-            156  
-            156 
+            134 
+            134 
+            0 
+            0
           </indices>
           <liveries>
             <Item value="false" />
@@ -94,18 +77,92 @@
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>        <Item>
+          <indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
           </liveries>
         </Item>
       </colors>
       <kits>
-        <Item>0_jester2_modkit</Item>
+        <Item>27_dominator_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
         <Probabilities />
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="0" />
+      <sirenSettings value="1" />
     </Item>
+
+
+
   </variationData>
 </CVehicleModelInfoVariation>

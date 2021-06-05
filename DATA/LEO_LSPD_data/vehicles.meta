@@ -365,12 +365,14 @@
 					<npcName/>
 				</Item>
 			</drivers>
-			<extraIncludes/>
+			<extraIncludes>
+				<Item>EXTRA_1 EXTRA_3 EXTRA_4 EXTRA_5 EXTRA_6</Item>
+			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras/>
+			<requiredExtras>EXTRA_1 EXTRA_3 EXTRA_4 EXTRA_5 EXTRA_6</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
