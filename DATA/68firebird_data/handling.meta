@@ -7,7 +7,7 @@
 			<fMass value="1540"/>
 			<fInitialDragCoeff value="3.9"/>
 			<fPercentSubmerged value="85"/>
-			<vecCentreOfMassOffset x="0" y="0.1" z="-5.05"/>
+			<vecCentreOfMassOffset x="0" y="0.1" z="-0.05"/>
 			<vecInertiaMultiplier x="1.3" y="1.3" z="1.7"/>
 			<fDriveBiasFront value="0"/>
 			<nInitialDriveGears value="4"/>
@@ -37,7 +37,7 @@
 			<fSuspensionBiasFront value="0.48"/>
 			<fAntiRollBarForce value="0.4"/>
 			<fAntiRollBarBiasFront value="0.47"/>
-			<fRollCentreHeightFront value="0.1"/>
+			<fRollCentreHeightFront value="0.51"/>
 			<fRollCentreHeightRear value="0.1"/>
 			<fCollisionDamageMult value="1"/>
 			<fWeaponDamageMult value="1"/>
