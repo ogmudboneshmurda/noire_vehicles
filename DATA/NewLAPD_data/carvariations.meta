@@ -119,6 +119,45 @@
 			<sirenSettings value="803"/>
 		</Item>
 		<Item>
+			<modelName>15pdfpiss</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            0
+			111
+			0
+			1
+			70
+			73
+          </indices>
+					<liveries>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>0_default_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges/>
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Police guv plate</Name>
+						<Value value="100"/>
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<sirenSettings value="807"/>
+			<lightSettings value="1"/>
+		</Item>
+		<Item>
 			<modelName>16pdfpiu</modelName>
 			<colors>
 				<Item>
@@ -156,6 +195,45 @@
 			</plateProbabilities>
 			<lightSettings value="1"/>
 			<sirenSettings value="805"/>
+		</Item>
+		<Item>
+			<modelName>16pdfpius</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            0
+			0
+			0
+			1
+			70
+			73
+          </indices>
+					<liveries>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>0_default_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges/>
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Police guv plate</Name>
+						<Value value="100"/>
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="1"/>
+			<sirenSettings value="809"/>
 		</Item>
 		<Item>
 			<modelName>sbearcat</modelName>

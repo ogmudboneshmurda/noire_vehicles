@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+  <Item>
+      <modelName>jeepg</modelName>
+      <colors>
+			<Item>
+          <indices content="char_array">
+            028 
+            028 
+            000 
+            000
+			028
+			028
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		  </Item>
+		  <Item>
+          <indices content="char_array">
+            028 
+            000 
+            000 
+            000
+			028
+			028
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		  </Item>
+		  <Item>
+          <indices content="char_array">
+            064 
+            064 
+            000 
+            000
+			064
+			064
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		  </Item>
+		  <Item>
+          <indices content="char_array">
+            064 
+            000 
+            000 
+            000
+			064
+			064
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		  </Item>
+		  <Item>
+          <indices content="char_array">
+            038 
+            000 
+            000 
+            000
+			038
+			038
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		  </Item>
+		  <Item>
+          <indices content="char_array">
+            038 
+            038 
+            000 
+            000
+			038
+			038
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		  </Item>
+		  <Item>
+          <indices content="char_array">
+            028 
+            028 
+            000 
+            000
+			028
+			028
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		  </Item>
+		  <Item>
+          <indices content="char_array">
+            006 
+            000 
+            000 
+            000
+			006
+			006
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		  </Item>
+		  <Item>
+          <indices content="char_array">
+            006
+            006 
+            000 
+            000
+			006
+			006
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		  </Item>
+		  <Item>
+          <indices content="char_array">
+            008 
+            008 
+            000 
+            000
+			008
+			008
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		  </Item>
+		  <Item>
+          <indices content="char_array">
+            008 
+            000 
+            000 
+            000
+			008
+			008
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		  </Item>
+		  <Item>
+          <indices content="char_array">
+            099 
+            099 
+            000 
+            000
+			099
+			099
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		  </Item>
+		  <Item>
+          <indices content="char_array">
+            099 
+            000 
+            000 
+            000
+			099
+			099
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		  </Item>
+		  <Item>
+          <indices content="char_array">
+            004 
+            004 
+            000 
+            000
+			004
+			004
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		  </Item>
+		  <Item>
+          <indices content="char_array">
+            004 
+            000 
+            000 
+            000
+			004
+			004
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		  </Item>
+		  <Item>
+          <indices content="char_array">
+            000 
+            000 
+            000 
+            000
+			000
+			000
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		  </Item>
+		  <Item>
+          <indices content="char_array">
+            000 
+            028 
+            000 
+            000
+			028
+			028
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		  </Item>
+		  <Item>
+          <indices content="char_array">
+            058 
+            058 
+            000 
+            000
+			058
+			058
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		  </Item>
+	  </colors>
+      <kits>
+        <kitName>528_jeepg_modkit</kitName>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="45" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Yankton Plate</Name>
+            <Value value="5" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="212" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

@@ -111,6 +111,7 @@
 				<Item>STD_DOMINATOR_FRONT_LEFT</Item>
 				<Item>STD_DOMINATOR_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
+			<numSeatsOverride value="4"/>
 		</Item>
 	</InitDatas>
 	<txdRelationships>

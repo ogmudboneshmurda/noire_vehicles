@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+      <modelName>zr</modelName>
+      <colors>
+        <Item> <!-- satin gold --> 
+          <indices content="char_array">
+            90
+            2
+            30
+            2 
+            2
+            111
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item> <!-- royal marron --> 
+          <indices content="char_array">
+            34
+            27
+            35
+            156 
+            2
+            111
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item> <!-- sapphire blue --> 
+          <indices content="char_array">
+            62
+            62
+            64
+            156 
+            62
+            111
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item> <!-- arctic silver --> 
+          <indices content="char_array">
+            5
+            5
+            2
+            156 
+            5
+            111
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+				<Item> <!-- sunbeam silver --> 
+          <indices content="char_array">
+            3
+            27
+            109
+            156
+            109
+            111
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+				<Item> <!-- sea green --> 
+          <indices content="char_array">
+            51
+            51
+            125
+            156
+            5
+            111
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+				<Item> <!-- brilliant black --> 
+          <indices content="char_array">
+            1
+            1
+            1
+            4
+            4
+            111
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+				<Item> <!-- sunrise red --> 
+          <indices content="char_array">
+            33
+            33
+            109
+            156
+            5
+            111
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+				<Item> <!-- nobel white --> 
+          <indices content="char_array">
+            112
+            112
+            112
+            156
+            7
+            111
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>576_zr_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80"/>
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item> 
+  </variationData>
+</CVehicleModelInfoVariation>

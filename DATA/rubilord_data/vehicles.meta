@@ -4,28 +4,27 @@
 	<residentAnims/>
 	<InitDatas>
 		<Item>
-			<modelName>trailcat</modelName>
-			<txdName>trailcat</txdName>
-			<handlingId>TRAILCAT</handlingId>
-			<gameName>TRAILCAT</gameName>
-			<vehicleMakeName>JEEP</vehicleMakeName>
-			<expressionDictName>null</expressionDictName>
+			<modelName>rubilord</modelName>
+			<txdName>rubilord</txdName>
+			<handlingId>RUBILORD</handlingId>
+			<gameName>rubilord</gameName>
+			<vehicleMakeName>FCA</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>DOMINATOR</audioNameHash>
+			<audioNameHash>MESA3</audioNameHash>
 			<layout>LAYOUT_4X4</layout>
-			<coverBoundOffsets>MESA_COVER_OFFSET_INFO</coverBoundOffsets>
+			<coverBoundOffsets>MESA3_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
 			<cameraName>FOLLOW_JEEP_CAMERA</cameraName>
 			<aimCameraName>JEEP_AIM_CAMERA</aimCameraName>
 			<bonnetCameraName>VEHICLE_BONNET_CAMERA_MID_NEAR</bonnetCameraName>
 			<povCameraName>DEFAULT_POV_CAMERA_LOOKAROUND_MID</povCameraName>
-			<FirstPersonDriveByIKOffset x="-0.018000" y="-0.043000" z="-0.060000"/>
+			<FirstPersonDriveByIKOffset x="-0.018000" y="-0.043000" z="-0.020000"/>
 			<FirstPersonDriveByUnarmedIKOffset x="0.000000" y="0.000000" z="-0.020000"/>
 			<FirstPersonProjectileDriveByIKOffset x="0.080000" y="0.000000" z="-0.060000"/>
 			<FirstPersonProjectileDriveByPassengerIKOffset x="0.020000" y="0.060000" z="-0.090000"/>
@@ -37,7 +36,7 @@
 			<FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="-0.150000" z="0.010000"/>
 			<FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="-0.150000" z="0.010000"/>
 			<FirstPersonMobilePhoneOffset x="0.150000" y="0.260000" z="0.503000"/>
-			<FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.223000" z="0.445000"/>
+			<FirstPersonPassengerMobilePhoneOffset x="0.174000" y="0.241000" z="0.420000"/>
 			<FirstPersonMobilePhoneSeatIKOffset>
 				<Item>
 					<Offset x="0.154000" y="0.076000" z="0.478000"/>
@@ -60,13 +59,13 @@
 			<AllowJoyriding value="true"/>
 			<AllowSundayDriving value="true"/>
 			<AllowBodyColorMapping value="true"/>
-			<wheelScale value="0.269000"/>
-			<wheelScaleRear value="0.269000"/>
+			<wheelScale value="0.283500"/>
+			<wheelScaleRear value="0.283500"/>
 			<dirtLevelMin value="0.000000"/>
 			<dirtLevelMax value="0.850000"/>
-			<envEffScaleMin value="0.000000"/>
+			<envEffScaleMin value="0.800000"/>
 			<envEffScaleMax value="1.000000"/>
-			<envEffScaleMin2 value="0.000000"/>
+			<envEffScaleMin2 value="0.800000"/>
 			<envEffScaleMax2 value="1.000000"/>
 			<damageMapScale value="0.600000"/>
 			<damageOffsetScale value="1.000000"/>
@@ -75,13 +74,13 @@
 			<HDTextureDist value="5.000000"/>
 			<lodDistances content="float_array">
 				15.000000
-				30.000000
+				35.000000
 				70.000000
 				140.000000
 				500.000000
 				500.000000
 			</lodDistances>
-			<minSeatHeight value="0.846"/>
+			<minSeatHeight value="0.986"/>
 			<identicalModelSpawnDistance value="20"/>
 			<maxNumOfSameColor value="10"/>
 			<defaultBodyHealth value="1000.000000"/>
@@ -92,16 +91,13 @@
 			<frequency value="100"/>
 			<swankness>SWANKNESS_1</swankness>
 			<maxNum value="999"/>
-			<flags>FLAG_HAS_LIVERY FLAG_EXTRAS_STRONG FLAG_AVERAGE_CAR FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY FLAG_HAS_INTERIOR_EXTRAS</flags>
+			<flags>FLAG_EXTRAS_REQUIRE FLAG_HAS_LIVERY FLAG_EXTRAS_STRONG FLAG_AVERAGE_CAR FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY FLAG_HAS_INTERIOR_EXTRAS</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
-			<vehicleClass>VC_SUV</vehicleClass>
-			<dashboardType>VDT_CAVALCADE</dashboardType>
+			<dashboardType>VDT_SUPERGT</dashboardType>
+			<vehicleClass>VC_OFF_ROAD</vehicleClass>
 			<wheelType>VWT_OFFROAD</wheelType>
-			<trailers>
-				<Item>boattrailer</Item>
-				<Item>trailersmall</Item>
-			</trailers>
+			<trailers/>
 			<additionalTrailers/>
 			<drivers/>
 			<extraIncludes/>
@@ -109,7 +105,7 @@
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="true"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras/>
+			<requiredExtras>EXTRA_1 EXTRA_2 EXTRA_3 EXTRA_4 EXTRA_5</requiredExtras>
 			<rewards/>
 			<cinematicPartCamera>
 				<Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
@@ -131,24 +127,24 @@
 	</InitDatas>
 	<txdRelationships>
 		<Item>
-			<parent>vehicles_cav_interior</parent>
-			<child>VOITURE</child>
+			<parent>vehicles_supergt_interior</parent>
+			<child>rubilord_4</child>
 		</Item>
 		<Item>
-			<parent>trailcat_4</parent>
-			<child>trailcat_3</child>
+			<parent>rubilord_4</parent>
+			<child>rubilord_3</child>
 		</Item>
 		<Item>
-			<parent>trailcat_3</parent>
-			<child>trailcat_2</child>
+			<parent>rubilord_3</parent>
+			<child>rubilord_2</child>
 		</Item>
 		<Item>
-			<parent>trailcat_2</parent>
-			<child>trailcat_1</child>
+			<parent>rubilord_2</parent>
+			<child>rubilord_1</child>
 		</Item>
 		<Item>
-			<parent>trailcat_1</parent>
-			<child>trailcat</child>
+			<parent>rubilord_1</parent>
+			<child>rubilord</child>
 		</Item>
 	</txdRelationships>
 </CVehicleModelInfo__InitDataList>

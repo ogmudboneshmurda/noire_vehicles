@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_BGNX_VEH</lockHash>
+			<modelNameHash>bgnx</modelNameHash>
+			<cost value="100"/>
+			<textLabel>BGNX</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+	</Vehicles>
+</ShopVehicleDataArray>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>gcmaccord21</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">  <!-- Magnetic -->
+            95
+            95
+            95
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Black -->
+            0
+            0
+            0
+            5
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Wine Red / Red -->
+            0
+            28
+            44
+            5
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

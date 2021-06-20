@@ -11,7 +11,7 @@
 
   <Kits>
     <Item>
-      <kitName>135_TRAILCAT_modkit</kitName>
+      <kitName>135_ipace_modkit</kitName>
       <id value="135" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
@@ -617,7 +617,7 @@
         <zBias value="0.250000" />
         <pullCoronaIn value="false" />
       </reversingLightCorona>
-      <name>TRAILCAT</name>
+      <name>ipace</name>
     </Item>
     </Lights>
 
