@@ -2,122 +2,307 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>1720_720s_modkit</kitName>
-      <id value="1720" />	 	  
+      <kitName>2217_mt125_kit</kitName>
+      <id value="2217" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
-			<Item>
-			  <modelName>720s_carbon_boot</modelName>
-			  <modShopLabel>720s_carbon_boot</modShopLabel>
-			  <linkedModels />
-			  <turnOffBones>
-				<Item>misc_d</Item>
-			  </turnOffBones>
-			  <type>VMT_BOOT</type>
-			  <bone>chassis</bone>
-			  <collisionBone>chassis</collisionBone>
-			  <cameraPos>VMCP_DEFAULT</cameraPos>
-			  <audioApply value="1.000000" />
-			  <weight value="10" />
-			  <turnOffExtra value="false" />
-			  <disableBonnetCamera value="true" />
-			  <allowBonnetSlide value="true" />
-			</Item>
-			<Item>
-			  <modelName>720s_carbon_bonnet</modelName>
-			  <modShopLabel>720s_carbon_bonnet</modShopLabel>
-			  <linkedModels />
-			  <turnOffBones>
-				<Item>bonnet</Item>
-			  </turnOffBones>
-			  <type>VMT_BONNET</type>
-			  <bone>bonnet</bone>
-			  <collisionBone>bonnet</collisionBone>
-			  <cameraPos>VMCP_DEFAULT</cameraPos>
-			  <audioApply value="1.000000" />
-			  <weight value="0" />
-			  <turnOffExtra value="false" />
-			  <disableBonnetCamera value="false" />
-			  <allowBonnetSlide value="true" />
-			</Item>
-			<Item>
-			  <modelName>720s_black_exhaust</modelName>
-			  <modShopLabel>720s_black_exhaust</modShopLabel>
-			  <linkedModels />
-			  <turnOffBones>
-				<Item>misc_c</Item>
-			  </turnOffBones>
-			  <type>VMT_EXHAUST</type>
-			  <bone>chassis</bone>
-			  <collisionBone>chassis</collisionBone>
-			  <cameraPos>VMCP_DEFAULT</cameraPos>
-			  <audioApply value="1.000000" />
-			  <weight value="0" />
-			  <turnOffExtra value="false" />
-			  <disableBonnetCamera value="false" />
-			  <allowBonnetSlide value="true" />
-			</Item>
-			<Item>
-			  <modelName>720s_carbon_back</modelName>
-			  <modShopLabel>720s_carbon_back</modShopLabel>
-			  <linkedModels />
-			  <turnOffBones>
-				<Item>misc_a</Item>
-			  </turnOffBones>
-			  <type>VMT_WING_L</type>
-			  <bone>chassis</bone>
-			  <collisionBone>chassis</collisionBone>
-			  <cameraPos>VMCP_DEFAULT</cameraPos>
-			  <audioApply value="1.000000" />
-			  <weight value="10" />
-			  <turnOffExtra value="false" />
-			  <disableBonnetCamera value="true" />
-			  <allowBonnetSlide value="true" />
-			</Item>
-			<Item>
-			  <modelName>720s_carbon_bumperf</modelName>
-			  <modShopLabel>720s_carbon_bumperf</modShopLabel>
-			  <linkedModels />
-			  <turnOffBones>
-				<Item>misc_e</Item>
-			  </turnOffBones>
-			  <type>VMT_BUMPER_F</type>
-			  <bone>chassis</bone>
-			  <collisionBone>chassis</collisionBone>
-			  <cameraPos>VMCP_DEFAULT</cameraPos>
-			  <audioApply value="1.000000" />
-			  <weight value="10" />
-			  <turnOffExtra value="false" />
-			  <disableBonnetCamera value="true" />
-			  <allowBonnetSlide value="true" />
-			</Item>
-			<Item>
-			  <modelName>720s_carbon_bumperr</modelName>
-			  <modShopLabel>720s_carbon_bumperr</modShopLabel>
-			  <linkedModels />
-			  <turnOffBones>
-				<Item>misc_f</Item>
-			  </turnOffBones>
-			  <type>VMT_BUMPER_R</type>
-			  <bone>chassis</bone>
-			  <collisionBone>chassis</collisionBone>
-			  <cameraPos>VMCP_DEFAULT</cameraPos>
-			  <audioApply value="1.000000" />
-			  <weight value="10" />
-			  <turnOffExtra value="false" />
-			  <disableBonnetCamera value="true" />
-			  <allowBonnetSlide value="true" />
-			</Item>
-      </visibleMods>
-      <linkMods />
-      <statMods>
 		<Item>
-          <identifier />
-          <modifier value="10" />
-          <audioApply value="1.000000" />
-          <weight value="20" />
-          <type>VMT_ENGINE</type>
+          <modelName>mt125_exh_1</modelName>
+          <modShopLabel>MNU125_EXH1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_b</Item>
+			<Item>misc_c</Item>
+			<Item>exhaust</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
         </Item>
+		<Item>
+          <modelName>mt125_exh_2</modelName>
+          <modShopLabel>MNU125_EXH2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_b</Item>
+			<Item>misc_c</Item>
+			<Item>exhaust</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+		<Item>
+          <modelName>mt125_exh_3</modelName>
+          <modShopLabel>MNU125_EXH3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_b</Item>
+			<Item>misc_c</Item>
+			<Item>exhaust</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+		<Item>
+          <modelName>mt125_deflector</modelName>
+          <modShopLabel>MNU125_DEF</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>handlebars</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+		<Item>
+          <modelName>mt125_windshield</modelName>
+          <modShopLabel>MNU125_WIN</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_ROOF</type>
+          <bone>handlebars</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+		<Item>
+          <modelName>mt125_lph_short</modelName>
+          <modShopLabel>MNU125_LPH1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+		<Item>
+          <modelName>mt125_ttidy</modelName>
+          <modShopLabel>MNU125_LPH2</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+		<Item>
+          <modelName/>
+          <modShopLabel>MNU125_LPH3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+		<Item>
+          <modelName>mt125_radiator_cover</modelName>
+          <modShopLabel>MNU125_RAD</modShopLabel>
+          <linkedModels/>
+          <turnOffBones/>
+          <type>VMT_BONNET</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+		<Item>
+          <modelName>mt125_s_stand</modelName>
+          <modShopLabel>MNU125_ST</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+		<Item>
+          <modelName>mt125_mir_u_r</modelName>
+          <modShopLabel>MNU125_MIR1</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>handlebars</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+		<Item>
+          <modelName>mt125_mir_u_r</modelName>
+          <modShopLabel>MNU125_MIR2</modShopLabel>
+          <linkedModels>
+            <Item>mt125_mir_u_l</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>handlebars</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+		<Item>
+          <modelName>mt125_mir_s_r</modelName>
+          <modShopLabel>MNU125_MIR3</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>handlebars</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+		<Item>
+          <modelName>mt125_mir_s_r</modelName>
+          <modShopLabel>MNU125_MIR4</modShopLabel>
+          <linkedModels>
+            <Item>mt125_mir_s_l</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>handlebars</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+		<Item>
+          <modelName>mt125_mir_d_r</modelName>
+          <modShopLabel>MNU125_MIR5</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>handlebars</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+		<Item>
+          <modelName>mt125_mir_d_r</modelName>
+          <modShopLabel>MNU125_MIR1</modShopLabel>
+          <linkedModels>
+            <Item>mt125_mir_d_l</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_g</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>handlebars</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+	  </visibleMods>
+      <linkMods>
+        <Item>
+          <modelName>mt125_mir_u_l</modelName>
+          <bone>handlebars</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+		<Item>
+          <modelName>mt125_mir_s_l</modelName>
+          <bone>handlebars</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+		<Item>
+          <modelName>mt125_mir_d_l</modelName>
+          <bone>handlebars</bone>
+          <turnOffExtra value="false"/>
+        </Item>
+	  </linkMods>
+      <statMods>
         <Item>
           <identifier />
           <modifier value="25" />
@@ -135,6 +320,13 @@
         <Item>
           <identifier />
           <modifier value="75" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
           <audioApply value="1.000000" />
           <weight value="20" />
           <type>VMT_ENGINE</type>
@@ -216,41 +408,6 @@
           <weight value="40" />
           <type>VMT_ARMOUR</type>
         </Item>
-		<Item>
-          <identifier />
-          <modifier value="5" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_SUSPENSION</type>
-        </Item>
-		<Item>
-          <identifier />
-          <modifier value="10" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_SUSPENSION</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="15" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_SUSPENSION</type>
-        </Item>
-		<Item>
-          <identifier />
-          <modifier value="20" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_SUSPENSION</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="25" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_SUSPENSION</type>
-        </Item>
         <Item>
           <identifier>HORN_TRUCK</identifier>
           <modifier value="1766676233" />
@@ -307,7 +464,7 @@
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
-		<Item>
+		    <Item>
           <identifier>HORN_SAD_TROMBONE</identifier>
           <modifier value="632950117" />
           <audioApply value="1.000000" />
@@ -355,70 +512,70 @@
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
-		<Item>
+	    	</Item>
+	    	<Item>
           <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
           <modifier value="3203290992" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
-		<Item>
+    		</Item>
+	    	<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
           <modifier value="771284519" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
-		<Item>
+	    	</Item>
+	    	<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
           <modifier value="2586621229" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
-		<Item>
+	    	</Item>
+	    	<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
           <modifier value="283386134" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
-		<Item>
+	    	</Item>
+	    	<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
           <modifier value="3884502400" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
-		<Item>
+    		</Item>
+    		<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
           <modifier value="265723083" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
-		<Item>
+    		</Item>
+	    	<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
           <modifier value="1746883687" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
-		<Item>
+    		</Item>
+	    	<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
           <modifier value="1919870950" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
-		<Item>
+    		</Item>
+    		<Item>
           <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
           <modifier value="1085277077" />
           <audioApply value="1.000000" />
           <weight value="0" />
           <type>VMT_HORN</type>
-		</Item>
+    		</Item>
         <Item>
           <identifier>HIPSTER_HORN_1</identifier>
           <modifier value="444549672" />
@@ -475,14 +632,91 @@
           <weight value="0" />
           <type>VMT_HORN</type>
         </Item>
+	    	<Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+	    	<Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+	    	<Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+	    	<Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+    		<Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+	    	<Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="1" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="2" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="3" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="4" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
       </statMods>
       <slotNames />
+        <Item>
+          <slot>VMT_CHASSIS</slot>
+          <name>TOP_CAGE</name>
+        </Item>
       <liveryNames />
     </Item>
   </Kits>
-<Lights>
+    <Lights>
     <Item>
-      <id value="910" />	
+      <id value="998" />	
       <indicator>
         <intensity value="0.375000" />
         <falloffMax value="2.500000" />
@@ -523,7 +757,7 @@
         <pullCoronaIn value="false" />
       </frontIndicatorCorona>
       <tailLight>
-        <intensity value="0.900000" />
+        <intensity value="0.250000" />
         <falloffMax value="4.000000" />
         <falloffExponent value="16.000000" />
         <innerConeAngle value="45.000000" />
@@ -532,7 +766,7 @@
         <color value="0xFFFF0000" />
       </tailLight>
       <tailLightCorona>
-        <size value="1.000000" />
+        <size value="0.900000" />
         <size_far value="5.300000" />
         <intensity value="4.000000" />
         <intensity_far value="1.000000" />
@@ -562,7 +796,7 @@
         <pullCoronaIn value="false" />
       </tailLightMiddleCorona>
       <headLight>
-        <intensity value="5.000000" />
+        <intensity value="1.000000" />
         <falloffMax value="35.000000" />
         <falloffExponent value="16.000000" />
         <innerConeAngle value="0.000000" />
@@ -575,10 +809,10 @@
       <headLightCorona>
         <size value="0.100000" />
         <size_far value="10.000000" />
-        <intensity value="1.000000" />
+        <intensity value="5.000000" />
         <intensity_far value="1.000000" />
         <color value="0xFFFFFFFF" />
-        <numCoronas value="0" />
+        <numCoronas value="1" />
         <distBetweenCoronas value="128" />
         <distBetweenCoronas_far value="255" />
         <xRotation value="0.000000" />
@@ -602,7 +836,7 @@
         <intensity value="1.500000" />
         <intensity_far value="1.000000" />
         <color value="0x00F7F7F7" />
-        <numCoronas value="0" />
+        <numCoronas value="1" />
         <distBetweenCoronas value="128" />
         <distBetweenCoronas_far value="255" />
         <xRotation value="0.000000" />
@@ -611,7 +845,7 @@
         <zBias value="0.250000" />
         <pullCoronaIn value="false" />
       </reversingLightCorona>
-      <name>720s</name>
+      <name>mt125</name>
     </Item>
     </Lights>
 </CVehicleModelInfoVarGlobal>

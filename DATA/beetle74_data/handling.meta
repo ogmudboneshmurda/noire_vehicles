@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHandlingDataMgr>
+	<HandlingData>
+		<Item type="CHandlingData">
+			<handlingName>beetle74</handlingName>
+			<fMass value="900"/>
+			<fInitialDragCoeff value="1.98"/>
+			<fPercentSubmerged value="80"/>
+			<vecCentreOfMassOffset x="0.0" y="-0.07" z="-0.0"/>
+			<vecInertiaMultiplier x="1.0" y="1.2" z="1.4"/>
+			<fDriveBiasFront value="0.0"/>
+			<nInitialDriveGears value="4"/>
+			<fInitialDriveForce value="0.1"/>
+			<fDriveInertia value="1.0"/>
+			<fClutchChangeRateScaleUpShift value="1.7"/>
+			<fClutchChangeRateScaleDownShift value="1.6"/>
+			<fInitialDriveMaxFlatVel value="100"/>
+			<fBrakeForce value="0.25"/>
+			<fBrakeBiasFront value="0.65"/>
+			<fHandBrakeForce value="1.0"/>
+			<fSteeringLock value="36"/>
+			<fTractionCurveMax value="1.34"/>
+			<fTractionCurveMin value="1.13"/>
+			<fTractionCurveLateral value="15.2"/>
+			<fTractionSpringDeltaMax value="0.15"/>
+			<fLowSpeedTractionLossMult value="0"/>
+			<fCamberStiffnesss value="0.0"/>
+			<fTractionBiasFront value="0.47"/>
+			<fTractionLossMult value="0.6"/>
+			<fSuspensionForce value="2.8"/>
+			<fSuspensionCompDamp value="1.4"/>
+			<fSuspensionReboundDamp value="0.8"/>
+			<fSuspensionUpperLimit value="0.14"/>
+			<fSuspensionLowerLimit value="-0.12"/>
+			<fSuspensionRaise value="0.01"/>
+			<fSuspensionBiasFront value="0.5"/>
+			<fAntiRollBarForce value="0.0"/>
+			<fAntiRollBarBiasFront value="0.520"/>
+			<fRollCentreHeightFront value="0.08"/>
+			<fRollCentreHeightRear value="0.1"/>
+			<fCollisionDamageMult value="1.2"/>
+			<fWeaponDamageMult value="0.7"/>
+			<fDeformationDamageMult value="1.0"/>
+			<fEngineDamageMult value="1.30"/>
+			<fPetrolTankVolume value="65.0"/>
+			<fOilVolume value="5.0"/>
+			<fSeatOffsetDistX value="0.0"/>
+			<fSeatOffsetDistY value="-0.250"/>
+			<fSeatOffsetDistZ value="0.0"/>
+			<nMonetaryValue value="10000"/>
+			<strModelFlags>440040</strModelFlags>
+			<strHandlingFlags>000101</strHandlingFlags>
+			<strDamageFlags>0</strDamageFlags>
+			<AIHandling>CRAP</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL"/>
+				<Item type="NULL"/>
+				<Item type="NULL"/>
+			</SubHandlingData>
+		</Item>
+	</HandlingData>
+</CHandlingDataMgr>

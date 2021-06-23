@@ -2,15 +2,15 @@
 
 <CVehicleModelInfoVariation>
   <variationData>
-    <Item>
-      <modelName>720s</modelName>
+     <Item>
+      <modelName>mt125</modelName>
       <colors>
         <Item>
           <indices content="char_array">
-            00
-            01
-            00
-            00
+            28
+            12
+            120 
+            0 
           </indices>
           <liveries>
             <Item value="true" />
@@ -23,12 +23,12 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+        <Item>
           <indices content="char_array">
-            27
-            01
-            036
-            06
+            28
+            12
+            120 
+            138
           </indices>
           <liveries>
             <Item value="true" />
@@ -41,12 +41,12 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+        <Item>
           <indices content="char_array">
-            62
-            01
-            70
-            06
+            64
+            0 
+            120 
+            0 
           </indices>
           <liveries>
             <Item value="true" />
@@ -59,12 +59,48 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+        <Item>
           <indices content="char_array">
-            004
-            01
-            00
-            00
+            64
+            0 
+            120 
+            138
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            89 
+            0 
+            120 
+            0 
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            89 
+            12 
+            120
+            0 
           </indices>
           <liveries>
             <Item value="true" />
@@ -79,20 +115,31 @@
         </Item>
       </colors>
       <kits>
-        <Item>1720_720s_modkit</Item>
+        <Item>2217_mt125_kit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
         <Probabilities>
           <Item>
             <Name>Standard White</Name>
-            <Value value="100" />
+            <Value value="25" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="10" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="15" />
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="910" />
+      <lightSettings value="998" />
       <sirenSettings value="0" />
     </Item>
-
   </variationData>
 </CVehicleModelInfoVariation>
