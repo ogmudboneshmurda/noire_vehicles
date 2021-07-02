@@ -4,17 +4,17 @@
 		<Item type="CHandlingData">
 			<handlingName>m3gtr</handlingName>
 			<fMass value="1500.000000"/>
-			<fInitialDragCoeff value="4.000000"/>
+			<fInitialDragCoeff value="3.750000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.600000" z="1.700000"/>
 			<fDriveBiasFront value="0.300000"/>
 			<nInitialDriveGears value="6"/>
-			<fInitialDriveForce value="0.354000"/>
+			<fInitialDriveForce value="0.325000"/>
 			<fDriveInertia value="1.000000"/>
 			<fClutchChangeRateScaleUpShift value="6.000000"/>
 			<fClutchChangeRateScaleDownShift value="6.000000"/>
-			<fInitialDriveMaxFlatVel value="159.000000"/>
+			<fInitialDriveMaxFlatVel value="170.000000"/>
 			<fBrakeForce value="1.000000"/>
 			<fBrakeBiasFront value="0.450000"/>
 			<fHandBrakeForce value="0.500000"/>
