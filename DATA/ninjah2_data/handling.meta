@@ -18,10 +18,10 @@
 			<fBrakeForce value="0.5"/>
 			<fBrakeBiasFront value="0.6"/>
 			<fHandBrakeForce value="1.1"/>
-			<fSteeringLock value="43.0"/>
-			<fTractionCurveMax value="1.25"/>
-			<fTractionCurveMin value="2.02"/>
-			<fTractionCurveLateral value="56.5"/>
+			<fSteeringLock value="30.0"/>
+			<fTractionCurveMax value="1.85"/>
+			<fTractionCurveMin value="1.65"/>
+			<fTractionCurveLateral value="20.5"/>
 			<fTractionSpringDeltaMax value="0.06"/>
 			<fLowSpeedTractionLossMult value="1.15"/>
 			<fCamberStiffnesss value="0.8"/>
