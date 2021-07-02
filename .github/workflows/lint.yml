@@ -1,0 +1,11 @@
+name: CI
+on: [push]
+jobs:
+  rage-lint:
+    name: Lint RAGE Resources
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Lint Resources
+        uses: GoatG33k/rage-lint-action@v1
