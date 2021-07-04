@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>MONSTER</audioNameHash>
-			<layout>LAYOUT_STD_HIGHWINDOW</layout>
+			<layout>LAYOUT_BISON</layout>
 			<coverBoundOffsets>AIRTUG_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
