@@ -15,7 +15,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>veh_sc18</ptfxAssetName>
-			<audioNameHash>COMET2</audioNameHash>
+			<audioNameHash>lambov10</audioNameHash>
 			<layout>LAYOUT_LOW</layout>
 			<coverBoundOffsets>SC18_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
