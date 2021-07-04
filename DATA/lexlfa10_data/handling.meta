@@ -3,7 +3,7 @@
 	<HandlingData>
 		<Item type="CHandlingData">
 			<handlingName>lexlfa10</handlingName>
-			<fMass value="1480.000000"/>
+			<fMass value="1700.000000"/>
 			<fInitialDragCoeff value="3.500000"/>
 			<fDownforceModifier value="4.000000"/>
 			<fPercentSubmerged value="85.000000"/>
@@ -20,14 +20,14 @@
 			<fBrakeBiasFront value="0.530000"/>
 			<fHandBrakeForce value="0.600000"/>
 			<fSteeringLock value="40.000000"/>
-			<fTractionCurveMax value="1.270000"/>
-			<fTractionCurveMin value="1.240000"/>
-			<fTractionCurveLateral value="15.509942"/>
+			<fTractionCurveMax value="2.420000"/>
+			<fTractionCurveMin value="2.230000"/>
+			<fTractionCurveLateral value="22.500000"/>
 			<fTractionSpringDeltaMax value="0.150000"/>
 			<fLowSpeedTractionLossMult value="0.000000"/>
 			<fCamberStiffnesss value="0.000000"/>
 			<fTractionBiasFront value="0.486000"/>
-			<fTractionLossMult value="1.300000"/>
+			<fTractionLossMult value="1.000000"/>
 			<fSuspensionForce value="3.250000"/>
 			<fSuspensionCompDamp value="1.820004"/>
 			<fSuspensionReboundDamp value="1.400007"/>
