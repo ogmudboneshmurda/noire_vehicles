@@ -16,7 +16,7 @@
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
       <audioNameHash>PONY</audioNameHash>
-      <layout>LAYOUT_VAN_PONY</layout>
+      <layout>LAYOUT_VAN</layout>
       <coverBoundOffsets>PONY_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
       <scenarioLayout />
