@@ -15,7 +15,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>weap_ie_vehicle_mg</ptfxAssetName>
-			<audioNameHash>COMET</audioNameHash>
+			<audioNameHash>HOTKNIFE</audioNameHash>
 			<layout>LAYOUT_LOW</layout>
 			<coverBoundOffsets>COMET_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
