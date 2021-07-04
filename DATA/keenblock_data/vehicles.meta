@@ -15,8 +15,8 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>infernus</audioNameHash>
-			<layout>LAYOUT_LOW</layout>
+			<audioNameHash>MONSTER3</audioNameHash>
+			<layout>LAYOUT_LOW_RESTRICTED</layout>
 			<coverBoundOffsets>TAMPA2_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>

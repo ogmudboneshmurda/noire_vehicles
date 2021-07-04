@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>monster3</audioNameHash>
-			<layout>LAYOUT_LOW</layout>
+			<layout>LAYOUT_STD_HABANERO/layout>
 			<coverBoundOffsets>PROTO_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
