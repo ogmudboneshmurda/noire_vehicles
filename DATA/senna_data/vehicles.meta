@@ -15,7 +15,7 @@
 			<animConvRoofName>roof</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>STRETCH</audioNameHash>
+			<audioNameHash>XA21</audioNameHash>
 			<layout>LAYOUT_LOW_INFERNUS</layout>
 			<coverBoundOffsets>INFERNUS_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
