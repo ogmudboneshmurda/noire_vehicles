@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>SUPERLEGGERA</handlingName>
 			<fMass value="1700.000000"/>
-			<fInitialDragCoeff value="3.420000"/>
+			<fInitialDragCoeff value="3.120000"/>
 			<fDownforceModifier value="1.480000"/>
 			<fPercentSubmerged value="76.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="-0.110000" z="0.020000"/>
@@ -12,11 +12,11 @@
 			<fDriveBiasFront value="0.000000"/>
 			<nInitialDriveGears value="6"/>
 			<fInitialDriveForce value="0.279000"/>
-			<fDriveInertia value="1.000000"/>
-			<fClutchChangeRateScaleUpShift value="2.200000"/>
-			<fClutchChangeRateScaleDownShift value="2.200000"/>
+			<fDriveInertia value="1.100000"/>
+			<fClutchChangeRateScaleUpShift value="3.200000"/>
+			<fClutchChangeRateScaleDownShift value="3.200000"/>
 			<fInitialDriveMaxFlatVel value="225.600000"/>
-			<fBrakeForce value="1.289000"/>
+			<fBrakeForce value="1.000000"/>
 			<fBrakeBiasFront value="0.678630"/>
 			<fHandBrakeForce value="0.800000"/>
 			<fSteeringLock value="42.500000"/>
@@ -35,10 +35,10 @@
 			<fSuspensionLowerLimit value="-0.134000"/>
 			<fSuspensionRaise value="-0.008000"/>
 			<fSuspensionBiasFront value="0.481000"/>
-			<fAntiRollBarForce value="0.000000"/>
+			<fAntiRollBarForce value="0.900000"/>
 			<fAntiRollBarBiasFront value="0.500000"/>
-			<fRollCentreHeightFront value="0.935000"/>
-			<fRollCentreHeightRear value="0.533000"/>
+			<fRollCentreHeightFront value="0.235000"/>
+			<fRollCentreHeightRear value="0.235000"/>
 			<fCollisionDamageMult value="1.700000"/>
 			<fWeaponDamageMult value="1.000000"/>
 			<fDeformationDamageMult value="1.700000"/>

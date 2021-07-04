@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>BUG09</handlingName>
 			<fMass value="1838.000000"/>
-			<fInitialDragCoeff value="1.150000"/>
+			<fInitialDragCoeff value="2.250000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.100000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.400000" z="1.600000"/>
@@ -14,13 +14,13 @@
 			<fDriveInertia value="1.000000"/>
 			<fClutchChangeRateScaleUpShift value="2.500000"/>
 			<fClutchChangeRateScaleDownShift value="2.500000"/>
-			<fInitialDriveMaxFlatVel value="250.800000"/>
+			<fInitialDriveMaxFlatVel value="240.800000"/>
 			<fBrakeForce value="1.000000"/>
-			<fBrakeBiasFront value="0.425000"/>
+			<fBrakeBiasFront value="0.505000"/>
 			<fHandBrakeForce value="0.450000"/>
 			<fSteeringLock value="40.200000"/>
-			<fTractionCurveMax value="2.490000"/>
-			<fTractionCurveMin value="2.360000"/>
+			<fTractionCurveMax value="2.190000"/>
+			<fTractionCurveMin value="2.060000"/>
 			<fTractionCurveLateral value="22.500000"/>
 			<fTractionSpringDeltaMax value="0.150000"/>
 			<fLowSpeedTractionLossMult value="0.800000"/>
