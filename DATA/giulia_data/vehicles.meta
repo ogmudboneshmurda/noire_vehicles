@@ -15,8 +15,8 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>ZION</audioNameHash>
-			<layout>LAYOUT_LOW</layout>
+			<audioNameHash>RUSTON</audioNameHash>
+			<layout>LAYOUT_STD_LOWROOF</layout>
 			<coverBoundOffsets>SENTINEL_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
