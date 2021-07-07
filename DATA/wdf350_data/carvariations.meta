@@ -13,7 +13,7 @@
             156
           </indices>
            	<liveries>
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -32,7 +32,7 @@
           </indices>
            	<liveries>
             <Item value="false" />
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -51,7 +51,7 @@
            	<liveries>
             <Item value="false" />
             <Item value="false" />
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -70,7 +70,7 @@
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -89,7 +89,7 @@
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -108,7 +108,7 @@
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
           </liveries>
