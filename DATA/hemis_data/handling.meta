@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHandlingDataMgr>
+	<HandlingData>
+		<Item type="CHandlingData">
+			<handlingName>hemis</handlingName>
+			<!-- Plymouth Hemi  -->
+			<fMass value="2270"/>
+			<fInitialDragCoeff value="3"/>
+			<fPercentSubmerged value="85"/>
+			<vecCentreOfMassOffset x="0" y="0.1" z="0"/>
+			<vecInertiaMultiplier x="1.1" y="1.1" z="1.7"/>
+			<fDriveBiasFront value="0.0"/>
+			<nInitialDriveGears value="5"/>
+			<fInitialDriveForce value="0.2"/>
+			<fDriveInertia value="0.3"/>
+			<fClutchChangeRateScaleUpShift value="0.6"/>
+			<fClutchChangeRateScaleDownShift value="0.5"/>
+			<fInitialDriveMaxFlatVel value="220"/>
+			<!-- 220kmph 9.0s -->
+			<fBrakeForce value="0.85"/>
+			<fBrakeBiasFront value="0.625"/>
+			<fHandBrakeForce value="0.8"/>
+			<fSteeringLock value="35.0"/>
+			<fTractionCurveMax value="1.625"/>
+			<fTractionCurveMin value="1.45"/>
+			<fTractionCurveLateral value="17.0"/>
+			<fTractionSpringDeltaMax value="0.15"/>
+			<fLowSpeedTractionLossMult value="0.0"/>
+			<fCamberStiffnesss value="0"/>
+			<fTractionBiasFront value="0.48"/>
+			<fTractionLossMult value="1.5"/>
+			<fSuspensionForce value="1.6"/>
+			<fSuspensionCompDamp value="0.5"/>
+			<fSuspensionReboundDamp value="0.45"/>
+			<fSuspensionUpperLimit value="0.125"/>
+			<fSuspensionLowerLimit value="-0.175"/>
+			<fSuspensionRaise value="0.015"/>
+			<fSuspensionBiasFront value="0.5"/>
+			<fAntiRollBarForce value="0.2"/>
+			<fAntiRollBarBiasFront value="0.7"/>
+			<fRollCentreHeightFront value="0.24"/>
+			<fRollCentreHeightRear value="0.25"/>
+			<fCollisionDamageMult value="0.7"/>
+			<fWeaponDamageMult value="1.0"/>
+			<fDeformationDamageMult value="0.7"/>
+			<fEngineDamageMult value="0.7"/>
+			<fPetrolTankVolume value="102"/>
+			<fOilVolume value="4.7"/>
+			<fSeatOffsetDistX value="0.05"/>
+			<fSeatOffsetDistY value="0"/>
+			<fSeatOffsetDistZ value="0.05"/>
+			<nMonetaryValue value="15000"/>
+			<strModelFlags>240000</strModelFlags>
+			<strHandlingFlags>820100</strHandlingFlags>
+			<strDamageFlags>0</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL"/>
+				<Item type="NULL"/>
+				<Item type="NULL"/>
+			</SubHandlingData>
+		</Item>
+	</HandlingData>
+</CHandlingDataMgr>

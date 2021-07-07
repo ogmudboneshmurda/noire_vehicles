@@ -2,15 +2,17 @@
 
 <CVehicleModelInfoVariation>
   <variationData>
-    <Item>
-      <modelName>vulcan</modelName>
+	<Item>
+      <modelName>mbc63</modelName>
       <colors>
         <Item>
           <indices content="char_array">
-            23
-            27
-            0
-            0
+            31 
+            31 
+            31 
+            156
+						0
+						0 
           </indices>
           <liveries>
             <Item value="false" />
@@ -23,12 +25,14 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+        <Item>
           <indices content="char_array">
-            21
-            27
-            0
-            0
+            6 
+            6 
+            111 
+            156
+						0
+						0 
           </indices>
           <liveries>
             <Item value="false" />
@@ -41,12 +45,14 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+        <Item>
           <indices content="char_array">
-            21
-            73
-            0
-            0
+            63 
+            63 
+            5 
+            156
+						0
+						0 
           </indices>
           <liveries>
             <Item value="false" />
@@ -59,12 +65,14 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+        <Item>
           <indices content="char_array">
-            27
-            112
-            36
-            0
+            4 
+            4 
+            111 
+            156
+						0
+						0 
           </indices>
           <liveries>
             <Item value="false" />
@@ -77,12 +85,14 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+        <Item>
           <indices content="char_array">
-            147
-            27
-            4
-            0
+            72 
+            72 
+            65 
+            156
+						0
+						0 
           </indices>
           <liveries>
             <Item value="false" />
@@ -95,12 +105,14 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+        <Item>
           <indices content="char_array">
-            4
-            73
-            111
-            0
+            111 
+            111 
+            0 
+            156
+						0
+						0 
           </indices>
           <liveries>
             <Item value="false" />
@@ -113,12 +125,14 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+        <Item>
           <indices content="char_array">
-            88
-            36
-            88
-            0
+            30 
+            30 
+            36 
+            156
+						0
+						0 
           </indices>
           <liveries>
             <Item value="false" />
@@ -131,12 +145,14 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+        <Item>
           <indices content="char_array">
-            38
-            36
-            37
-            0
+            0 
+            0 
+            1 
+            156
+						0
+						0 
           </indices>
           <liveries>
             <Item value="false" />
@@ -149,12 +165,14 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+        <Item>
           <indices content="char_array">
-            92
-            36
-            92
-            0
+            2 
+            111 
+            4 
+            156
+						0
+						0 
           </indices>
           <liveries>
             <Item value="false" />
@@ -167,12 +185,74 @@
             <Item value="false" />
           </liveries>
         </Item>
-		<Item>
+        <Item>
           <indices content="char_array">
-            73
-            112
-            73
-            0
+            7 
+            0 
+            5 
+            156
+						0
+						0 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            5 
+            0 
+            111 
+            156
+						0
+						0 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            36 
+            0 
+            41 
+            156
+						0
+						0 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            13 
+            0 
+            0 
+            156
+						0
+						0 
           </indices>
           <liveries>
             <Item value="false" />
@@ -187,7 +267,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>954_vulcan_modkit</Item>
+        <Item>mbc63_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -198,7 +278,7 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="954" />
+      <lightSettings value="0" />
       <sirenSettings value="0" />
     </Item>
   </variationData>

@@ -1,29 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <CVehicleModelInfoVariation>
-  <variationData> 
-
-
-
-
-
-
-
-
-
-
-    <Item>
-      <modelName>rculi</modelName>
+  <variationData>
+     <Item>
+      <modelName>x6mf16</modelName>
       <colors>
         <Item>
           <indices content="char_array">
+            2 
+            2 
             134 
-            134 
-            0 
-            0
+            156 
           </indices>
           <liveries>
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -35,14 +25,14 @@
         </Item>
         <Item>
           <indices content="char_array">
-            134 
-            134 
-            0 
-            0
+            147 
+            2 
+            4 
+            156 
           </indices>
           <liveries>
             <Item value="false" />
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -53,15 +43,15 @@
         </Item>
         <Item>
           <indices content="char_array">
-            134 
-            134 
-            0 
-            0
+            5 
+            2 
+            111 
+            156 
           </indices>
           <liveries>
             <Item value="false" />
             <Item value="false" />
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -71,16 +61,16 @@
         </Item>
         <Item>
           <indices content="char_array">
-            134 
-            134 
-            0 
-            0
+            64 
+            73 
+            64 
+            147 
           </indices>
           <liveries>
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
@@ -89,27 +79,10 @@
         </Item>
         <Item>
           <indices content="char_array">
-            134 
-            134 
+            138 
+            2 
             0 
-            0
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="true" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>        <Item>
-          <indices content="char_array">
-            134 
-            134 
-            0 
-            0
+            156 
           </indices>
           <liveries>
             <Item value="false" />
@@ -117,35 +90,17 @@
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
-            <Item value="true" />
+            <Item value="false" />
             <Item value="false" />
             <Item value="false" />
           </liveries>
         </Item>
         <Item>
           <indices content="char_array">
-            134 
-            134 
-            0 
-            0
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="true" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            134 
-            134 
-            0 
-            0
+            104 
+            2 
+            90
+            156 
           </indices>
           <liveries>
             <Item value="false" />
@@ -155,29 +110,36 @@
             <Item value="false" />
             <Item value="false" />
             <Item value="false" />
-            <Item value="true" />
+            <Item value="false" />
           </liveries>
         </Item>
       </colors>
       <kits>
-        <Item>0_default_modkit</Item>
+        <Item>952_x6mf16_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
-        <Probabilities />
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="25" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="10" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="15" />
+          </Item>
+        </Probabilities>
       </plateProbabilities>
-      <lightSettings value="1" />
+      <lightSettings value="902" />
       <sirenSettings value="0" />
     </Item>
-
-
-
-
-
-
-
-
-
-
   </variationData>
 </CVehicleModelInfoVariation>
