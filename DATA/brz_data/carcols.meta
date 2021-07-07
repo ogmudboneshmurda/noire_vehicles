@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
 	    <Item>
-      <kitName>957_brz_modkit</kitName>
-      <id value="957"/>
+      <kitName>9957_brz_modkit</kitName>
+      <id value="9957"/>
       <kitType>MKT_SPORT</kitType>
       <visibleMods>
         <Item>
