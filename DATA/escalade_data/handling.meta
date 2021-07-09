@@ -18,7 +18,7 @@
 			<fBrakeForce value="1.300000"/>
 			<fBrakeBiasFront value="0.500000"/>
 			<fHandBrakeForce value="0.850000"/>
-			<fSteeringLock value="50.000000"/>
+			<fSteeringLock value="38.000000"/>
 			<fTractionCurveMax value="2.100000"/>
 			<fTractionCurveMin value="1.900000"/>
 			<fTractionCurveLateral value="19.500000"/>
