@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>SC18</handlingName>
 			<fMass value="1590.000000"/>
-			<fInitialDragCoeff value="3.250000"/>
+			<fInitialDragCoeff value="2.500000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="-0.100000" z="-0.17000000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.300000"/>
@@ -14,7 +14,7 @@
 			<fDriveInertia value="1.3000000"/>
 			<fClutchChangeRateScaleUpShift value="6.000000"/>
 			<fClutchChangeRateScaleDownShift value="6.000000"/>
-			<fInitialDriveMaxFlatVel value="220.000000"/>
+			<fInitialDriveMaxFlatVel value="230.000000"/>
 			<fBrakeForce value="1.300000"/>
 			<fBrakeBiasFront value="0.560000"/>
 			<fHandBrakeForce value="0.400000"/>
